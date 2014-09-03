@@ -13,8 +13,9 @@ Office Hours: Mondays and Wednesdays 9:30-10:30 by appointment (Sign up on [http
 '''Course Websites:'''
 
 * http://people.ischool.berkeley.edu/~bcarver/ (main site)
-* Transitioning to https://github.com/brianwc/syllabi/IPInfoInd/2014_fall.mediawiki
+* Transitioning to https://github.com/brianwc/syllabi/blob/master/IPInfoInd/2014_fall.mediawiki
 * https://bspace.berkeley.edu (slides, exams, handouts)
+* [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_(Fall_2014) Wikipedia Course Page]
 
 '''Grade and Attendance''': <br>
 *24-hour take-home midterm (20%)
@@ -95,7 +96,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Monday, September 15===
 '''(A-K on call)'''
-* Create a Wikipedia account and list your username on our Wikipedia United States Education [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29 course page].
+* Create a Wikipedia account and list your username on our Wikipedia United States Education [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_(Fall_2014) course page].
 * '''Copyright Overview: intro, scope, exclusive rights, remedies'''
 ** [http://www.law.cornell.edu/uscode/17/usc_sup_01_17_10_1.html 17 U.S.C. §§ 102 & 106].
 * '''Copyright Protection for Code: copying of literal and nonliteral elements of code, abstraction-filtration-comparison, copying of functional elements, protocols, screen displays, and user interfaces''' '''SAIL 31-37.'''
@@ -131,7 +132,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Wednesday, September 24===
 '''(L-Z on call)'''
-* Select the article you will work on as your main Wikipedia project and put your username next to the article on [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29 our course page].
+* Select the article you will work on as your main Wikipedia project and put your username next to the article on [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_(Fall_2014) our course page].
 * '''Derivative Works'''
 ** [http://www.law.cornell.edu/uscode/17/usc_sec_17_00000103----000-.html 17 U.S.C. § 103].
 ** ''[https://www.courtlistener.com/ca7/38SA/midway-mfg-co-an-illinois-corporation-v-artic-inte/ Midway Mfg. Co. v. Artic Int'l, Inc.]'', 704 F.2d 1009 (7th Cir. 1983). '''SAIL 98-104.'''
