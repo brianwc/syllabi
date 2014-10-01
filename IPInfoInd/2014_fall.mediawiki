@@ -146,7 +146,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Monday, September 29===
 '''(A-K on call)'''
-* Begin compiling a bibliography and studying the sources. (Use your Wikipedia userspace to compile this list.)
+* 
 * '''Using information location tools as fair use'''
 ** ''[https://www.courtlistener.com/ca9/51Gp/kelly-v-arriba-soft-corp/ Kelly v. Arriba Soft Corp.]'', 336 F.3d 811 (9th Cir. 2003). 
 ** ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/12/03/0655405.pdf Perfect 10, Inc. v. Amazon.com, Inc.]'', 508 F.3d 1146 (9th Cir. 2007). '''SAIL 534-546 & 583-589'''
@@ -159,7 +159,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Wednesday, October 1===
 '''(L-Z on call)'''
-* Bibliography for Wikipedia article due.
+* Begin compiling a bibliography and studying the sources. (Use your Wikipedia userspace to compile this list.)
 * '''Contract Formation: Shrinkwrap, Clickwrap, and Browsewrap licenses'''
 ** ''[https://www.courtlistener.com/ca3/3TX5/step-saver-data-systems-inc-v-wyse-technology-and-/ Step-Saver Data Sys. v. Wyse Tech.]'', 939 F.2d 91 (3d Cir. 1991). '''SAIL 256-263.'''
 ** ''[https://www.courtlistener.com/ca7/4Gc9/procd-incorporated-v-matthew-zeidenberg-and-silken/ ProCD, Inc. v. Zeidenberg]'', 86 F.3d 1447 (7th Cir. 1996). '''SAIL 263-269.'''
@@ -170,7 +170,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Monday, October 6===
 '''(A-K on call)'''
-* Outline draft of Wikipedia project due. Begin writing 3-4 paragraph summary version of article (with citations).
+* Bibliography for Wikipedia article due.
 * '''Reverse Engineering'''
 ** ''[https://www.courtlistener.com/ca5/3AtZ/vault-corporation-v-quaid-software-limited/ Vault Corp. v. Quaid Software Ltd.]'', 847 F.2d 255 (5th Cir. 1988). '''SAIL 287-291'''
 ** ''[https://www.courtlistener.com/ca9/43n4/sega-enterprises-ltd-a-japanese-corporation-v-acco/ Sega Enters. Ltd. v. Accolade, Inc.]'', 977 F.2d 1510 (9th Cir. 1992) (Read copyright portion only). '''SAIL 116-131.'''
@@ -182,7 +182,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ----
 
 ===Wednesday, October 8===
-* Continue revising and improving Wikipedia article. Refer to Brian's [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29#Brian.27s_15-point_Wikipedia_Project_Checklist Wikipedia Project Checklist]!
+* Outline draft of Wikipedia project due. Begin writing 3-4 paragraph summary version of article (with citations).
 * '''Sign up to be the First Reviewer of a classmate's Wikipedia article'''
 * Readings TBA
 
@@ -199,7 +199,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ----
 
 ===Wednesday, October 15===
-*'''Keep working on your Wikipedia article.'''
+* Continue revising and improving Wikipedia article. Refer to Brian's [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29#Brian.27s_15-point_Wikipedia_Project_Checklist Wikipedia Project Checklist]!
 '''(L-Z on call)'''
 * '''Copyright Liability for Intermediaries: Internet Service and Access Providers'''
 ** ''[http://www.law.cornell.edu/copyright/cases/907_FSupp_1361.htm Religious Tech. Ctr. v. Netcom On-Line Commc'n Servs., Inc.]'', 907 F. Supp. 1361 (N.D. Cal. 1995). '''SAIL 507-514.'''
@@ -211,7 +211,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Monday, October 20===
 '''(A-K on call)'''
-*'''Keep working on your Wikipedia article.'''
+* '''Keep working on your Wikipedia article.'''
 * '''Contributory and Vicarious Liability for Copyright Infringement'''
 ** ''[https://www.courtlistener.com/ca9/4Xv5/am-records-inc-v-napster-inc/ A&M Records, Inc. v. Napster, Inc.]'', 239 F.3d 1004 (9th Cir. 2001). '''SAIL 546-562.'''
 ** ''[http://w2.eff.org/IP/P2P/MGM_v_Grokster/04-480.pdf Metro-Goldwyn-Mayer Studios, Inc. v. Grokster, Ltd.]'', 545 U.S. 913 (2005). (Read Only Sections I, II.A and III.A&B of the Grokster majority opinion). '''SAIL 562-583.'''
@@ -221,7 +221,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ===Wednesday, October 22===
 '''(L-Z on call)'''
-*'''Keep working on your Wikipedia article.'''
+* '''Keep working on your Wikipedia article.'''
 * '''Paracopyright: DMCA Section 1201'''
 ** [http://www4.law.cornell.edu/uscode/17/1201.html 17 U.S.C. § 1201]. '''SAIL 589-590.'''
 ** Pamela Samuelson, ''[http://people.ischool.berkeley.edu/~pam/papers/Samuelson.pdf Intellectual Property and the Digital Economy: Why the Anti-Circumvention Regulations Need to be Revised]'', 14 Berkeley Tech. L.J. 519 (1999). '''SAIL 590-594.'''
