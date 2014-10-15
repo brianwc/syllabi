@@ -289,8 +289,8 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ----
 
-===Monday, November 10 (ACADEMIC HOLIDAY – NO CLASS)===
-'''NO CLASS.'''
+===Monday, November 10 ===
+* Readings TBD
 
 
 ----
@@ -320,13 +320,21 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ** [http://www.google.com/patents?vid=USPAT5443036 U.S. Patent No. 5,443,036]
 ** ''[https://www.courtlistener.com/cafc/4SRC/state-street-bank-trust-co-v-signature-financial-g/ State Street Bank & Trust v. Signature Fin. Servs.]'', 149 F.3d 1368 (Fed. Cir. 1998). 
 ** ''[https://www.courtlistener.com/cafc/4UQK/att-corp-v-excel-communications-inc-excel-communic/ AT&T Corp. v. Excel Commc'ns, Inc.]'', 172 F.3d 1352 (Fed. Cir. 1999). 
-**''[http://www.supremecourt.gov/opinions/09pdf/08-964.pdf Bilski v. Kappos]'', No. 08-964, 561 U.S. __ (2010). '''SAIL 145-158.'''
 
 
 ----
 
 ===Wednesday, November 19===
 '''(A-K on call)'''
+* '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' 
+** ''[https://www.courtlistener.com/scotus/4d17/mayo-collaborative-services-v-prometheus-laborator/ Mayo Collaborative Services v. Prometheus Laboratories, Inc.]'', No. 10-1150 (2012).
+** ''[https://www.courtlistener.com/scotus/eJxh/alice-corp-v-cls-bank-intl/ Alice Corp. v. CLS Bank Int'l]'', No. 13-298 (2014).
+
+
+----
+
+===Monday, November 24===
+'''(L-Z on call)'''
 * '''Patent Law: Examination and Validity of Software Patents - Novelty and Nonobviousness'''
 ** ''[https://www.courtlistener.com/cafc/4ZmL/netscape-communications-corporation-plaintiffcount/ Netscape Commc'ns Corp. v. Konrad]'', 295 F.3d 1315 (Fed. Cir. 2002). '''SAIL 158-164.'''
 ** ''[https://www.courtlistener.com/cafc/4M5b/lawrence-b-lockwood-v-american-airlines-inc/ Lockwood v. Am. Airlines, Inc.]'', 107 F.3d 1565 (Fed. Cir. 1997). '''SAIL 164-168.'''
@@ -334,11 +342,10 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ** ''[http://ftp.resource.org/courts.gov/c/F3/424/424.F3d.1336.05-1062.html LizardTech, Inc. v. Earth Resource Mapping, Inc.]'', 424 F.3d 1336 (Fed. Cir. 2005). '''SAIL 175-180.'''
 
 
-
 ----
 
-===Monday, November 24===
-'''(L-Z on call)'''
+===Wednesday, November 26===
+'''(A-K on call)'''
 * '''Nonobviousness''' (continued)
 **''[http://scholar.google.com/scholar_case?case=4144186526558027266&hl=en&as_sdt=2&as_vis=1&oi=scholarr Perfect Web Technologies, Inc. v. InfoUSA, Inc.]'', 587 F.3d 1324 (Fed. Cir. 2009).
 * '''Accessibility of Printed Publication'''
@@ -347,8 +354,8 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ----
 
-===Wednesday, November 26===
-'''(A-K on call)'''
+===Monday, December 1===
+'''(L-Z on call)'''
 * '''Patent Exhaustion'''
 ** ''[http://www.supremecourt.gov/opinions/07pdf/06-937.pdf Quanta Computer, Inc. v. LG Elecs., Inc.]'', 128 S. Ct. 2109 (2008).
 ** ''[http://scholar.google.com/scholar_case?case=6662452052889665124&hl=en&as_sdt=2&as_vis=1&oi=scholarr LG Elecs., Inc. v. Hitachi Am. Ltd.]'', 655 F.Supp.2d 1036 (N.D. Cal. 2009).
@@ -357,19 +364,11 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ----
 
-===Monday, December 1===
-'''(L-Z on call)'''
+===Wednesday, December 3===
 * Overview/Summary
 * Reading on the New Patent Act:
 ** Mark Lemley, ''[http://ssrn.com/abstract=1929044 Things You Should Care About in the New Patent Statute]'' (2011).
 ** The New [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/1/11/AIA-102.pdf Section 102].
-
-
-----
-
-===Wednesday, December 3===
-* Readings TBA
-
 
 ----
 
