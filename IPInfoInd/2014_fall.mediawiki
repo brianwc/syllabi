@@ -291,15 +291,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ----
 
 ===Monday, November 10 ===
-* Readings TBD
-
-
-----
-
-===Wednesday, November 12===
 '''(A-K on call)'''
-* '''Wikipedia Project Second Reviews and Edits Due''' – Brian's [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29#Brian.27s_Guidelines_for_Second_Reviewers_.28Peer_Edit.29 Wikipedia Project Checklist] even has guidelines for second reviews!
-* When you complete your second review, please add the article you worked on as a second reviewer to [http://en.wikipedia.org/wiki/User:Brianwc Brian's Wikipedia User page] in the appropriate chart and increment the relevant counters that count the number of articles.
 * '''Trademark Law: Pop-up and keyword advertising, gripe sites'''
 ** ''[https://www.courtlistener.com/ca2/547E/1-800-contacts-inc-v-whenucom-inc-and-vision-direc/ 1-800 Contacts, Inc. v. WhenU.com, Inc.]'', 414 F.3d 400 (2d Cir. 2005). '''SAIL 456-463.'''
 ** ''[https://www.courtlistener.com/ca9/52gV/playboy-enterprises-inc-v-netscape-communications-/ Playboy Enters., Inc. v. Netscape Commc'ns Corp.]'', 354 F.3d 1020 (9th Cir. 2004). '''SAIL 479-488.'''
@@ -313,14 +305,22 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ----
 
-===Monday, November 17===
+===Wednesday, November 12===
 '''(L-Z on call)'''
+* '''Wikipedia Project Second Reviews and Edits Due''' – Brian's [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Intellectual_Property_Law_%28Fall_2013%29#Brian.27s_Guidelines_for_Second_Reviewers_.28Peer_Edit.29 Wikipedia Project Checklist] even has guidelines for second reviews!
+* When you complete your second review, please add the article you worked on as a second reviewer to [http://en.wikipedia.org/wiki/User:Brianwc Brian's Wikipedia User page] in the appropriate chart and increment the relevant counters that count the number of articles.
 * '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' '''SAIL 139-145.'''
 ** [http://www.law.cornell.edu/uscode/html/uscode35/usc_sup_01_35_10_II_20_10.html 35 U.S.C. §§ 100-104, 112]
 ** [http://www.google.com/patents?vid=USPAT5111391 U.S. Patent No. 5,111,391]
 ** [http://www.google.com/patents?vid=USPAT5443036 U.S. Patent No. 5,443,036]
 ** ''[https://www.courtlistener.com/cafc/4SRC/state-street-bank-trust-co-v-signature-financial-g/ State Street Bank & Trust v. Signature Fin. Servs.]'', 149 F.3d 1368 (Fed. Cir. 1998). 
 ** ''[https://www.courtlistener.com/cafc/4UQK/att-corp-v-excel-communications-inc-excel-communic/ AT&T Corp. v. Excel Commc'ns, Inc.]'', 172 F.3d 1352 (Fed. Cir. 1999). 
+
+
+----
+
+===Monday, November 17===
+* Readings TBD
 
 
 ----
