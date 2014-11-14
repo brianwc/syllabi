@@ -320,16 +320,16 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ----
 
 ===Monday, November 17===
-* Readings TBD
+'''(A-K on call)'''
+* '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' 
+** ''[https://www.courtlistener.com/scotus/4d17/mayo-collaborative-services-v-prometheus-laborator/ Mayo Collaborative Services v. Prometheus Laboratories, Inc.]'', No. 10-1150 (2012).
+** ''[https://www.courtlistener.com/scotus/eJxh/alice-corp-v-cls-bank-intl/ Alice Corp. v. CLS Bank Int'l]'', No. 13-298 (2014).
 
 
 ----
 
 ===Wednesday, November 19===
-'''(A-K on call)'''
-* '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' 
-** ''[https://www.courtlistener.com/scotus/4d17/mayo-collaborative-services-v-prometheus-laborator/ Mayo Collaborative Services v. Prometheus Laboratories, Inc.]'', No. 10-1150 (2012).
-** ''[https://www.courtlistener.com/scotus/eJxh/alice-corp-v-cls-bank-intl/ Alice Corp. v. CLS Bank Int'l]'', No. 13-298 (2014).
+* Readings TBD
 
 
 ----
