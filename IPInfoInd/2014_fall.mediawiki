@@ -324,6 +324,7 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 * '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' 
 ** ''[https://www.courtlistener.com/scotus/4d17/mayo-collaborative-services-v-prometheus-laborator/ Mayo Collaborative Services v. Prometheus Laboratories, Inc.]'', No. 10-1150 (2012).
 ** ''[https://www.courtlistener.com/scotus/eJxh/alice-corp-v-cls-bank-intl/ Alice Corp. v. CLS Bank Int'l]'', No. 13-298 (2014).
+** Optional: ''[https://www.courtlistener.com/opinion/2751497/ultramercial-inc-v-hulu-llc Ultramercial, Inc. v. Hulu, LLC]'', 10-1544 (Fed. Cir. Nov. 14, 2014)
 
 
 ----
