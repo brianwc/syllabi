@@ -329,12 +329,6 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 ----
 
 ===Wednesday, November 19===
-* Readings TBD
-
-
-----
-
-===Monday, November 24===
 '''(L-Z on call)'''
 * '''Patent Law: Examination and Validity of Software Patents - Novelty and Nonobviousness'''
 ** ''[https://www.courtlistener.com/cafc/4ZmL/netscape-communications-corporation-plaintiffcount/ Netscape Commc'ns Corp. v. Konrad]'', 295 F.3d 1315 (Fed. Cir. 2002). '''SAIL 158-164.'''
@@ -345,12 +339,18 @@ Attendance is expected. If you need to miss all or a portion of a class, I will 
 
 ----
 
-===Wednesday, November 26===
+===Monday, November 24===
 '''(A-K on call)'''
 * '''Nonobviousness''' (continued)
 **''[http://scholar.google.com/scholar_case?case=4144186526558027266&hl=en&as_sdt=2&as_vis=1&oi=scholarr Perfect Web Technologies, Inc. v. InfoUSA, Inc.]'', 587 F.3d 1324 (Fed. Cir. 2009).
 * '''Accessibility of Printed Publication'''
 ** ''[http://www.ll.georgetown.edu/federal/judicial/fed/opinions/07opinions/07-1065.pdf SRI Int'l, Inc. v. Internet Sec. Sys., Inc.]'', 511 F.3d 1186 (Fed. Cir. 2008).
+
+
+----
+
+===Wednesday, November 26===
+* Readings TBD
 
 
 ----
