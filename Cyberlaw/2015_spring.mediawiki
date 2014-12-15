@@ -138,6 +138,7 @@ Optional Readings: [[Personal Jurisdiction for Online Activities and Internation
 ====Immunity for Internet Intermediaries & Liability====
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/04/02/0456916.pdf Fair Housing Council of San Fernando Valley v. Roommates.com, LLC]'', 521 F.3d 1157 (9th Cir. 2008) (''en banc''). '''SAIL 688-696'''.
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2009/06/22/05-36189.pdf Barnes v. Yahoo!, Inc.]'', No. 05-36189 (9th Cir. Jun. 22, 2009). '''SAIL 697-704'''.
+* ''[https://www.courtlistener.com/opinion/2733753/jane-doe-no-14-v-internet-brands-inc/ Jane Doe No. 14 v. Internet Brands, Inc., DBA Modelmayhem.com]'', No. 12-56638 (9th Cir. Sep. 17, 2014).
 ====Liability for Distributing Information Obtained by Others====
 * ''[https://www.courtlistener.com/scotus/BcR/bartnicki-v-vopper/ Bartnicki v. Vopper]'', 532 U.S. 514 (2001). '''SAIL 806-814'''.
 * ''[http://w2.eff.org/IP/Video/DVDCCA_case/20021125_pavlovich_opinion.pdf Pavlovich v. Superior Court]'', 29 Cal. 4th 262 (2002). '''SAIL 356-362'''.
@@ -207,9 +208,9 @@ Optional Readings: [[Personal Jurisdiction for Online Activities and Internation
 * The Stored Communications Act [http://www4.law.cornell.edu/uscode/18/usc_sup_01_18_10_I_20_121.html 18 U.S.C. §§ 2701-2712].
 * ''[http://courtlistener.com/ca6/VPf/united-states-v-steven-warshak/ United States v. Warshak]'', 631 F.3d 266 (6th Cir. 2010). 
 * ''[http://courtlistener.com/scotus/Let/ontario-v-quon/ Ontario v. Quon]'', 130 S.Ct. 2619 (2010). '''SAIL 954-965'''.
-* ''[http://www.eff.org/files/filenode/att/308_order_on_mtns_to_dismiss.pdf Hepting v. AT&T]'', 439 F. Supp. 2d 974 (N.D. Cal. 2006) '''(pages 1-36)''' '''SAIL 965-984'''.
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/07/09/0650581.pdf United States v. Arnold]'', 533 F.3d 1003 (9th Cir. 2008). '''SAIL 984-991'''.
-
+* ''[https://www.courtlistener.com/opinion/2759861/united-states-v-chad-camou/ United States v. Chad Camou]'', 12-50598 (9th Cir. 2014).
+* ''[https://www.courtlistener.com/opinion/622304/united-states-v-jones/ United States v. Jones]'', No. 10-1259 (2012).
 
 ----
 
@@ -261,7 +262,7 @@ Optional Readings: [[Personal Jurisdiction for Online Activities and Internation
 * ''[http://crt.li/x/4dof United States v. Nosal]'', No. 10-10038 (9th Cir. 2012) (''en banc'').
 Optional Video: [http://www.youtube.com/watch?feature=player_embedded&v=c8F93nzDqP0 Video of ''En Banc'' Oral Argument in ''United States v. Nosal'']
 ====Privacy, National Security, and Global Surveillance====
-* Answer [http://survey.sharealike.net/index.php?sid=77943 a survey question] for our next class.
+* ''[http://www.eff.org/files/filenode/att/308_order_on_mtns_to_dismiss.pdf Hepting v. AT&T]'', 439 F. Supp. 2d 974 (N.D. Cal. 2006) '''(pages 1-36)''' '''SAIL 965-984'''.
 * Andrea Peterson, [http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/31/heres-what-we-learned-about-the-nsas-spying-programs-in-2013/ Here’s what we learned about the NSA's spying programs in 2013], Washington Post (Dec. 31, 2013).
 * Electronic Frontier Foundation, [https://www.eff.org/nsa-spying/faq NSA Spying FAQ].
 * Laura K. Donohue & Erwin Chemerinsky, [http://epic.org/privacy/nsa/in-re-epic/Church-Committee-Amicus.pdf Amicus Curiae Brief of Former Members of the Church Committee and Law Professors in Support of Petitioners], ''In Re Electronic Privacy Information Center'', No. 13-58 (Petition for a Writ of Mandamus and Prohibition, or a Writ of Certiorari) (S. Ct. Aug. 6, 2013) (petition denied Nov. 18, 2013).
