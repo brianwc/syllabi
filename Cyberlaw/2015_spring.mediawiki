@@ -18,7 +18,7 @@
 * [https://github.com/brianwc/syllabi/blob/master/Cyberlaw/2015_spring.mediawiki https://github.com/brianwc/syllabi/blob/master/Cyberlaw/2015_spring.mediawiki] (Syllabus)
 * [http://bcourses.berkeley.edu/ http://bcourses.berkeley.edu] (Slides or handouts used in class)
 * [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2015) Wikipedia Course Page] (Info re Wikipedia Assignment)
-* [http://piazza.com/berkeley/spring2014/info235law2761/home http://piazza.com/berkeley/spring2014/info235law2761/home] (For class-related discussion)
+* [https://piazza.com/berkeley/spring2015/info235law2761/home https://piazza.com/berkeley/spring2015/info235law2761/home] (For class-related discussion)
 
 '''Grade and Attendance:'''
 
