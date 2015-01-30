@@ -117,7 +117,7 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 ----
 ===Feb. 5, Thu.: Indecent Speech and Censorship on the Internet & Immunity for Internet Intermediaries===
 ====Wikipedia Assignment====
-* '''Wikipedia Project Proposals Due''': Sign up for an initial article on our [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2014) course page].
+* '''Wikipedia Project Proposals Due''': Sign up for an initial article on our [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2015) course page].
 * Begin compiling a bibliography and studying the sources for your Wikipedia article. (Consider using your Wikipedia userspace to compile this list.)
 ====Indecent Speech and Censorship on the Internet====
 * ''[https://www.eff.org/files/filenode/Nitke_v_Ashcroft/nitke_v_ashcroft_ruling.pdf Nitke v. Gonzales]'', 413 F. Supp. 2d 262 (S.D.N.Y. 2005). '''SAIL 735-741'''.
