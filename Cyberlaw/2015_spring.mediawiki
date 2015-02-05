@@ -1,7 +1,5 @@
 ==='''Syllabus'''===
 
-===DRAFT DO NOT RELY ON THIS YET!===
-
 '''University of California at Berkeley, Spring 2014'''<br>
 '''LAW 276.1 and INFO 235 Cyberlaw'''<br>
 '''Days and Time Thursday 3:30 p.m. - 6:30 p.m. (3 units)'''<br>
@@ -108,10 +106,6 @@ We will address this by having everyone enrolled in LAW 276.1 attend a first cla
 * ''[http://www.ca10.uscourts.gov/opinions/06/06-1458.pdf Dudnikov v. Chalk & Vermilion Fine Arts, Inc.]'', 514 F.3d 1063 (10th Cir. 2008). '''SAIL 344-356'''.
 * Simson Garfinkel, ''[http://www.wired.com/wired/archive/8.07/haven_pr.html Welcome to Sealand. Now Bugger Off]'', Wired Magazine (July 2000).
 Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.php/Personal_Jurisdiction_for_Online_Activities_and_International_Jurisdiction Personal Jurisdiction for Online Activities and International Jurisdiction]
-====Indecent Speech and Censorship on the Internet====
-* ''[https://www.courtlistener.com/scotus/B82/reno-v-american-civil-liberties-union/ Reno v. ACLU]'', 521 U.S. 844 (1997). '''SAIL 704-718'''.
-* ''[https://www.courtlistener.com/scotus/GJa/ashcroft-v-american-civil-liberties-union/ Ashcroft v. ACLU]'', 542 U.S. 656 (2004). '''SAIL 718-726'''.
-* ''[https://www.courtlistener.com/scotus/EG2/united-states-v-american-library-assn-inc/ United States v. American Library Association]'', 539 U.S. 194 (2003). '''SAIL 726-735'''.
 
 
 ----
@@ -120,13 +114,12 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 * '''Wikipedia Project Proposals Due''': Sign up for an initial article on our [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2015) course page].
 * Begin compiling a bibliography and studying the sources for your Wikipedia article. (Consider using your Wikipedia userspace to compile this list.)
 ====Indecent Speech and Censorship on the Internet====
+* ''[https://www.courtlistener.com/scotus/B82/reno-v-american-civil-liberties-union/ Reno v. ACLU]'', 521 U.S. 844 (1997). '''SAIL 704-718'''.
+* ''[https://www.courtlistener.com/scotus/GJa/ashcroft-v-american-civil-liberties-union/ Ashcroft v. ACLU]'', 542 U.S. 656 (2004). '''SAIL 718-726'''.
+* ''[https://www.courtlistener.com/scotus/EG2/united-states-v-american-library-assn-inc/ United States v. American Library Association]'', 539 U.S. 194 (2003). '''SAIL 726-735'''.
+====Indecent Speech and Censorship on the Internet====
 * ''[https://www.eff.org/files/filenode/Nitke_v_Ashcroft/nitke_v_ashcroft_ruling.pdf Nitke v. Gonzales]'', 413 F. Supp. 2d 262 (S.D.N.Y. 2005). '''SAIL 735-741'''.
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2009/10/28/07-10528.pdf United States v. Kilbride]'', Nos. 07-10528 & 07-10534 (9th Cir. Oct. 28, 2009) (read only up to section II. B, i.e., pages 1-23). '''SAIL 741-751'''.
-====Immunity for Internet Intermediaries====
-* [http://www4.law.cornell.edu/uscode/47/230.html 47 U.S.C. § 230].
-* ''[https://www.courtlistener.com/ca4/4QpK/kenneth-m-zeran-v-america-online-incorporated/ Zeran v. America OnLine, Inc.]'', 129 F.3d 327 (4th Cir. 1997). '''SAIL 665-670'''.
-* ''[http://www.techlawjournal.com/courts/drudge/80423opin.htm Blumenthal v. Drudge]'', 992 F.Supp. 44 (D.D.C. 1998). '''SAIL 670-675'''.
-* ''[http://w2.eff.org/legal/cases/Barrett_v_Rosenthal/ruling.pdf Barrett v. Rosenthal]'', 40 Cal. 4th 33 (2006). '''SAIL 675-688'''.
 
 
 ----
@@ -135,15 +128,15 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 ====Wikipedia & Paper Assignment====
 * '''Wikipedia article bibliography due.'''
 * ''Paper bibliography due'' for undergraduates and Law School Writing Requirement.
+====Immunity for Internet Intermediaries====
+* [http://www4.law.cornell.edu/uscode/47/230.html 47 U.S.C. § 230].
+* ''[https://www.courtlistener.com/ca4/4QpK/kenneth-m-zeran-v-america-online-incorporated/ Zeran v. America OnLine, Inc.]'', 129 F.3d 327 (4th Cir. 1997). '''SAIL 665-670'''.
+* ''[http://www.techlawjournal.com/courts/drudge/80423opin.htm Blumenthal v. Drudge]'', 992 F.Supp. 44 (D.D.C. 1998). '''SAIL 670-675'''.
+* ''[http://w2.eff.org/legal/cases/Barrett_v_Rosenthal/ruling.pdf Barrett v. Rosenthal]'', 40 Cal. 4th 33 (2006). '''SAIL 675-688'''.
 ====Immunity for Internet Intermediaries & Liability====
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/04/02/0456916.pdf Fair Housing Council of San Fernando Valley v. Roommates.com, LLC]'', 521 F.3d 1157 (9th Cir. 2008) (''en banc''). '''SAIL 688-696'''.
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2009/06/22/05-36189.pdf Barnes v. Yahoo!, Inc.]'', No. 05-36189 (9th Cir. Jun. 22, 2009). '''SAIL 697-704'''.
 * ''[https://www.courtlistener.com/opinion/2733753/jane-doe-no-14-v-internet-brands-inc/ Jane Doe No. 14 v. Internet Brands, Inc., DBA Modelmayhem.com]'', No. 12-56638 (9th Cir. Sep. 17, 2014).
-====Liability for Distributing Information Obtained by Others====
-* ''[https://www.courtlistener.com/scotus/BcR/bartnicki-v-vopper/ Bartnicki v. Vopper]'', 532 U.S. 514 (2001). '''SAIL 806-814'''.
-* ''[http://w2.eff.org/IP/Video/DVDCCA_case/20021125_pavlovich_opinion.pdf Pavlovich v. Superior Court]'', 29 Cal. 4th 262 (2002). '''SAIL 356-362'''.
-* ''[http://w2.eff.org/IP/Video/DVDCCA_case/S102588_bunner_decision.pdf DVD CCA v. Bunner]'', 31 Cal. 4th 864 (Cal. 2003). '''SAIL 814-837'''.
-* ''[http://www.eff.org/IP/Video/DVDCCA_case/20040227_Decision.pdf DVD CCA v. Bunner]'', 116 Cal. App. 4th 241 (Cal. Ct. App. 2004). '''SAIL 837-846'''.
 
 
 ----
@@ -151,6 +144,11 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 ====Wikipedia Assignment====
 * '''Wikipedia article outline due.'''
 * '''Everyone should have signed up to Review others' Wikipedia Projects by now.'''
+====Liability for Distributing Information Obtained by Others====
+* ''[https://www.courtlistener.com/scotus/BcR/bartnicki-v-vopper/ Bartnicki v. Vopper]'', 532 U.S. 514 (2001). '''SAIL 806-814'''.
+* ''[http://w2.eff.org/IP/Video/DVDCCA_case/20021125_pavlovich_opinion.pdf Pavlovich v. Superior Court]'', 29 Cal. 4th 262 (2002). '''SAIL 356-362'''.
+* ''[http://w2.eff.org/IP/Video/DVDCCA_case/S102588_bunner_decision.pdf DVD CCA v. Bunner]'', 31 Cal. 4th 864 (Cal. 2003). '''SAIL 814-837'''.
+* ''[http://www.eff.org/IP/Video/DVDCCA_case/20040227_Decision.pdf DVD CCA v. Bunner]'', 116 Cal. App. 4th 241 (Cal. Ct. App. 2004). '''SAIL 837-846'''.
 ====Liability for Distributing Information Obtained by Others====
 * ''[http://www.eff.org/files/filenode/Apple_v_Does/H028579.pdf O’Grady v. Superior Court]'', 139 Cal. App. 4th 1423 (Cal. Ct. App. 2006). '''SAIL 846-876'''.
 * ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2007-06-22-Appeals_Court_Decision.pdf Jean v. Massachusetts State Police]'', 492 F.3d 24 (1st Cir. 2007). '''SAIL 876-882'''.
