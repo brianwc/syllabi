@@ -224,6 +224,7 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 * ''[https://www.courtlistener.com/cadc/ezzW/verizon-v-fcc/ Verizon v. FCC]'', No. 11-1355 (D.C. Cir. 2014).
 * ''In the Matter of Protecting and Promoting the Open Internet'', [https://www.eff.org/files/2014/07/15/efffcccomments7152014.pdf Electronic Frontier Foundation's Comments Regarding Proposed Rulemaking], GN Docket No. 14-28 (Jul. 15, 2014).
 * '''Optional''' Additional Background ''In the Matter of Protecting and Promoting the Open Internet'', [https://www.eff.org/files/2014/09/15/nnreplycommentssept152014.pdf Electronic Frontier Foundation's Reply Comments Regarding Proposed Rulemaking], GN Docket No. 14-28 (Sep. 15, 2014).
+* [http://transition.fcc.gov/Daily_Releases/Daily_Business/2015/db0204/DOC-331869A1.pdf Fact Sheet: Chairman Wheeler Proposes New Rules for Protecting the Open Internet] (Feb. 4, 2015).
 * Guest Speaker: Mitch Stolz, Staff Attorney, Electronic Frontier Foundation
 
 ----
