@@ -190,14 +190,15 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 
 ----
 
-===Mar. 12, Thu.: Network Neutrality===
-* [http://www.worldofends.com/ http://www.worldofends.com/] (Read 10 principles on main page of site.)
-* Ed Felten, ''[http://web.archive.org/web/20100618030932/http://itpolicy.princeton.edu/pub/neutrality.pdf Nuts and Bolts of Network Neutrality]''.
-* FCC, ''[http://web.archive.org/web/20131222030958/http://www.publicknowledge.org/pdf/FCC-05-151A1.pdf Internet Policy Statement]'', FCC 05-151 (Sep. 23, 2005).
-* ''[http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-183A1.pdf In the Matters of Formal Complaint of Free Press and Public Knowledge Against Comcast Corporation for Secretly Degrading Peer-to-Peer Applications]'', WC Docket No. 07-52 (FCC 2008).
-* ''[http://courtlistener.com/cadc/oR/comcast-corporation-v-fcc/ Comcast v. FCC]'', 600 F.3d 642 (D.C. Cir. 2010).
-* ''[http://s3.documentcloud.org/documents/23325/fcc-net-neutrality-order.pdf In the Matter of Preserving the Open Internet Broadband Industry Practices]'', FCC 10-201 (Dec. 23, 2010). (Skim this).
-* ''[https://www.courtlistener.com/cadc/ezzW/verizon-v-fcc/ Verizon v. FCC]'', 11-1355 (D.C. Cir. 2014).
+===Mar. 12, Thu.: Fourth Amendment as Applied to Digital Privacy===
+====Fourth Amendment as Applied to Digital Privacy====
+* ''[https://www.courtlistener.com/ca5/31p/steve-jackson-games-inc-v-us-secret-service/ Steve Jackson Games v. United States Secret Service]'', 36 F.3d 457 (5th Cir. 1994). '''SAIL 883-890'''.
+* The Stored Communications Act [http://www4.law.cornell.edu/uscode/18/usc_sup_01_18_10_I_20_121.html 18 U.S.C. §§ 2701-2712].
+* ''[http://courtlistener.com/ca6/VPf/united-states-v-steven-warshak/ United States v. Warshak]'', 631 F.3d 266 (6th Cir. 2010). 
+* ''[http://courtlistener.com/scotus/Let/ontario-v-quon/ Ontario v. Quon]'', 130 S.Ct. 2619 (2010). '''SAIL 954-965'''.
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/07/09/0650581.pdf United States v. Arnold]'', 533 F.3d 1003 (9th Cir. 2008). '''SAIL 984-991'''.
+* ''[https://www.courtlistener.com/opinion/2759861/united-states-v-chad-camou/ United States v. Chad Camou]'', No. 12-50598 (9th Cir. 2014).
+* ''[https://www.courtlistener.com/opinion/622304/united-states-v-jones/ United States v. Jones]'', No. 10-1259 (2012).
 
 
 ----
@@ -210,17 +211,20 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 
 ----
 
-===Mar. 19, Thu.: Fourth Amendment as Applied to Digital Privacy===
+===Mar. 19, Thu.: Network Neutrality===
 ====Wikipedia Assignment====
 * '''Continue working on Wikipedia Project Second Reviews'''
-====Fourth Amendment as Applied to Digital Privacy====
-* ''[https://www.courtlistener.com/ca5/31p/steve-jackson-games-inc-v-us-secret-service/ Steve Jackson Games v. United States Secret Service]'', 36 F.3d 457 (5th Cir. 1994). '''SAIL 883-890'''.
-* The Stored Communications Act [http://www4.law.cornell.edu/uscode/18/usc_sup_01_18_10_I_20_121.html 18 U.S.C. §§ 2701-2712].
-* ''[http://courtlistener.com/ca6/VPf/united-states-v-steven-warshak/ United States v. Warshak]'', 631 F.3d 266 (6th Cir. 2010). 
-* ''[http://courtlistener.com/scotus/Let/ontario-v-quon/ Ontario v. Quon]'', 130 S.Ct. 2619 (2010). '''SAIL 954-965'''.
-* ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/07/09/0650581.pdf United States v. Arnold]'', 533 F.3d 1003 (9th Cir. 2008). '''SAIL 984-991'''.
-* ''[https://www.courtlistener.com/opinion/2759861/united-states-v-chad-camou/ United States v. Chad Camou]'', 12-50598 (9th Cir. 2014).
-* ''[https://www.courtlistener.com/opinion/622304/united-states-v-jones/ United States v. Jones]'', No. 10-1259 (2012).
+====Net Neutrality====
+* [http://www.worldofends.com/ http://www.worldofends.com/] (Read 10 principles on main page of site.)
+* Ed Felten, ''[http://web.archive.org/web/20100618030932/http://itpolicy.princeton.edu/pub/neutrality.pdf Nuts and Bolts of Network Neutrality]''.
+* FCC, ''[http://web.archive.org/web/20131222030958/http://www.publicknowledge.org/pdf/FCC-05-151A1.pdf Internet Policy Statement]'', FCC 05-151 (Sep. 23, 2005).
+* ''[http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-183A1.pdf In the Matters of Formal Complaint of Free Press and Public Knowledge Against Comcast Corporation for Secretly Degrading Peer-to-Peer Applications]'', WC Docket No. 07-52 (FCC 2008).
+* ''[http://courtlistener.com/cadc/oR/comcast-corporation-v-fcc/ Comcast v. FCC]'', 600 F.3d 642 (D.C. Cir. 2010).
+* ''[http://s3.documentcloud.org/documents/23325/fcc-net-neutrality-order.pdf In the Matter of Preserving the Open Internet Broadband Industry Practices]'', FCC 10-201 (Dec. 23, 2010). (Skim this).
+* ''[https://www.courtlistener.com/cadc/ezzW/verizon-v-fcc/ Verizon v. FCC]'', No. 11-1355 (D.C. Cir. 2014).
+* ''In the Matter of Protecting and Promoting the Open Internet'', [https://www.eff.org/files/2014/07/15/efffcccomments7152014.pdf Electronic Frontier Foundation's Comments Regarding Proposed Rulemaking], GN Docket No. 14-28 (Jul. 15, 2014).
+* '''Optional''' Additional Background ''In the Matter of Protecting and Promoting the Open Internet'', [https://www.eff.org/files/2014/09/15/nnreplycommentssept152014.pdf Electronic Frontier Foundation's Reply Comments Regarding Proposed Rulemaking], GN Docket No. 14-28 (Sep. 15, 2014).
+* Guest Speaker: Mitch Stolz, Staff Attorney, Electronic Frontier Foundation
 
 ----
 
