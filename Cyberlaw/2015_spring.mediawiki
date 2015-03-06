@@ -179,7 +179,6 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 * ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/07/03/0515170.pdf Perfect 10, Inc. v. Visa Int'l Serv. Ass'n]'', 494 F.3d 788 (9th Cir. 2007).
 * ''[http://en.wikisource.org/wiki/Cartoon_Network,_LP_v._CSC_Holdings,_Inc. Cartoon Network, LP v. CSC Holdings, Inc.]'', 536 F.3d 121 (2d Cir. 2008). '''SAIL 514-526'''.
 ====Digital Rights Management and Anti-circumvention====
-* '''Wikipedia First Reviews and [https://en.wikipedia.org/wiki/Template_talk:Did_you_know DYK Nomination] Complete''' - Use this "[http://survey.sharealike.net/ survey]" to report on your work as a first reviewer.
 *''[http://www.eff.org/files/filenode/RealDVD/Real%20v%20DVD-CCA%2C%20PI%20Order%20081109.pdf Realnetworks, Inc. v. DVD Copy Control Assoc., Inc.]'', 641 F. Supp. 2d 913 (N.D. Cal. Aug. 11, 2009).
 *''[http://scholar.google.com/scholar_case?q=DVD+Copy+Control+Assn.,+Inc.+v.+Kaleidescape,+Inc.&hl=en&as_sdt=2,5&case=12960376580676165361&scilh=0 DVD Copy Control Assoc., Inc. v. Kaleidescape, Inc.]'', 176 Cal. App. 4th 697 (Cal. Ct. App. Aug. 12, 2009).
 ====Optional free event after class====
@@ -191,6 +190,8 @@ Optional Readings: [http://people.ischool.berkeley.edu/~bcarver/mediawiki/index.
 ----
 
 ===Mar. 12, Thu.: Fourth Amendment as Applied to Digital Privacy===
+====Wikipedia Assignment====
+* '''Wikipedia First Reviews and [https://en.wikipedia.org/wiki/Template_talk:Did_you_know DYK Nomination] Complete''' - Use this "[http://survey.sharealike.net/ survey]" to report on your work as a first reviewer.
 ====Fourth Amendment as Applied to Digital Privacy====
 * ''[https://www.courtlistener.com/ca5/31p/steve-jackson-games-inc-v-us-secret-service/ Steve Jackson Games v. United States Secret Service]'', 36 F.3d 457 (5th Cir. 1994). '''SAIL 883-890'''.
 * The Stored Communications Act [http://www4.law.cornell.edu/uscode/18/usc_sup_01_18_10_I_20_121.html 18 U.S.C. §§ 2701-2712].
