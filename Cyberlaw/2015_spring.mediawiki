@@ -282,8 +282,10 @@ Optional Video: [http://www.youtube.com/watch?feature=player_embedded&v=c8F93nzD
 * ''[http://www.eff.org/files/filenode/att/308_order_on_mtns_to_dismiss.pdf Hepting v. AT&T]'', 439 F. Supp. 2d 974 (N.D. Cal. 2006) '''(pages 1-36)''' '''SAIL 965-984'''.
 * Andrea Peterson, [http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/31/heres-what-we-learned-about-the-nsas-spying-programs-in-2013/ Here’s what we learned about the NSA's spying programs in 2013], Washington Post (Dec. 31, 2013).
 * Electronic Frontier Foundation, [https://www.eff.org/nsa-spying/faq NSA Spying FAQ].
-* Laura K. Donohue & Erwin Chemerinsky, [http://epic.org/privacy/nsa/in-re-epic/Church-Committee-Amicus.pdf Amicus Curiae Brief of Former Members of the Church Committee and Law Professors in Support of Petitioners], ''In Re Electronic Privacy Information Center'', No. 13-58 (Petition for a Writ of Mandamus and Prohibition, or a Writ of Certiorari) (S. Ct. Aug. 6, 2013) (petition denied Nov. 18, 2013).
-Optional Readings: Electronic Privacy Information Center, [http://epic.org/privacy/nsa/in-re-epic/ In re EPIC - NSA Telephone Records Surveillance] (collection of resources related to the case)
+* ''[https://ia601403.us.archive.org/22/items/gov.uscourts.cand.207206/gov.uscourts.cand.207206.321.0.pdf Jewel v. NSA]'', No. 08-04373 (Feb. 10, 2015).
+* Optional Readings: 
+** Laura K. Donohue & Erwin Chemerinsky, [http://epic.org/privacy/nsa/in-re-epic/Church-Committee-Amicus.pdf Amicus Curiae Brief of Former Members of the Church Committee and Law Professors in Support of Petitioners], ''In Re Electronic Privacy Information Center'', No. 13-58 (Petition for a Writ of Mandamus and Prohibition, or a Writ of Certiorari) (S. Ct. Aug. 6, 2013) (petition denied Nov. 18, 2013).
+** Electronic Privacy Information Center, [http://epic.org/privacy/nsa/in-re-epic/ In re EPIC - NSA Telephone Records Surveillance] (collection of resources related to the case)
 
 
 ----
