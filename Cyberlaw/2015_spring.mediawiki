@@ -68,7 +68,7 @@ While participation from all students is encouraged in each class meeting, 6-8 s
 
 Note: This is a cross-listed course. Unfortunately, the Law School's Academic Calendar does not align with the Academic Calendar of main campus. Law instruction begins Monday January 12th, but instruction begins on main campus on Tuesday, January 20th. Law instruction ends on Tuesday April 28th, but main campus instruction ends Friday, May 8th. This problem of calendar mis-alignment has existed for several years.
 
-We will address this by having everyone enrolled in LAW 276.1 attend a first class meeting on Thursday, January 15th, and everyone enrolled in INFO 235 a final session on Thursday, April 30th. We will discuss the same material in these two sessions, just at different times. I also welcome LAW 276.1 students to attend the final regularly-scheduled meeting time with the INFO 235 students (for those who do not have conflicting exams).
+We will address this by having everyone enrolled in LAW 276.1 attend a first class meeting on Thursday, January 15th, and everyone enrolled in INFO 235 a final session on Tuesday, April 28th. We will discuss the same material in these two sessions, just at different times. I also welcome LAW 276.1 students to attend the final regularly-scheduled meeting time with the INFO 235 students (for those who do not have conflicting exams).
 
 ===Jan. 15, Thu. : Online Anonymous Speech and the First Amendment - LAW 276.1 CLASS ONLY===
 * [http://www.eff.org/files/filenode/dom_v_myspace/Motion%20AC%20filed.pdf Brief of Amicus Curiae The Electronic Frontier Foundation in Dominick v. Myspace, Inc.], (Cir. Ct. of Cook County Ill. 2008).
@@ -302,7 +302,8 @@ Optional Video: [http://www.youtube.com/watch?feature=player_embedded&v=c8F93nzD
 
 ----
 
-====Apr. 30, Thu. : Online Anonymous Speech and the First Amendment (ONLY INFO 235 meets)====
+====Apr. 28, Tue. : Online Anonymous Speech and the First Amendment (ONLY INFO 235 meets; Room 205)====
+* NOTE DAY AND ROOM CHANGE.
 * [http://www.eff.org/files/filenode/dom_v_myspace/Motion%20AC%20filed.pdf Brief of Amicus Curiae The Electronic Frontier Foundation in Dominick v. Myspace, Inc.], (Cir. Ct. of Cook County Ill. 2008).
 * ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-04-26%20Order.pdf Doe v. 2themart.com Inc.]'', 140 F. Supp. 2d 1088 (W.D. Wash. 2001). '''SAIL 761-767'''.
 * ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-07-11-Decision.pdf Dendrite International, Inc. v. Doe No. 3]'', 775 A.2d 756 (N.J. Super. A.D. 2001). '''SAIL 767-778'''.
@@ -310,6 +311,11 @@ Optional Video: [http://www.youtube.com/watch?feature=player_embedded&v=c8F93nzD
 * ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2007-11-27-Court%20of%20Appeals%20Opinion.pdf Mobilisa, Inc. v. Doe]'', 170 P.3d 712 (Ariz. Ct. App. 2007). (excerpt on '''SAIL 791''').
 * ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2008-02-06-Krinsky_v._Doe_Opinion.pdf Krinsky v. Doe 6]'', 159 Cal. App. 4th 1154 (Cal. Ct. App. 2008). '''SAIL 791-805'''.
 
+
+----
+
+====Apr. 30, Thu. : No Class====
+* Optional Field Trip: [FutureLaw 2015](https://www.law.stanford.edu/event/2015/04/30/codex-futurelaw-conference-2015) at Stanford. $55 student rate.
 
 ----
 
