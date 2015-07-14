@@ -1,0 +1,396 @@
+===Syllabus===
+'''University of California at Berkeley, Fall 2011'''<br>
+'''INFO 237'''<br>
+'''Intellectual Property Law for the Information Industries'''<br>
+'''Tuesdays and Thursdays, 9:30 a.m. – 11:00 a.m. (3 units)'''<br>
+'''202 South Hall'''<br>
+
+'''Instructor:''' Brian W. Carver (bcarver at ischool dot berkeley dot edu)<br>
+207C South Hall<br>
+510.643.1469<br>
+Office Hours: Tuesdays and Thursdays 11:00-12:00 by appointment (Sign up on [http://www.wejoinin.com/sheets/lgabj wejoinin])<br>
+
+'''Course Websites:'''
+
+* http://people.ischool.berkeley.edu/~bcarver/ (main site)
+* https://bspace.berkeley.edu (slides, exams, handouts)
+
+'''Grade and Attendance''': <br>
+*24-hour take-home final exam (45%)<br>
+*Wikipedia Project (40% total)<br>
+**Initial Article(s) (15%)
+**First Peer Review (10%)
+**Second Peer Review (15%)<br>
+*Class participation (15%)<br>
+
+The exam will be designed to be completed in three hours, but you will be permitted 24-hours in which to take it. The exam will be open book and open notes. In fact, you may use any available resource in writing the exam except for another person.
+
+Class participation will consist of being on-call for class discussion and making substantive contributions to the class discussions. 
+
+Each student will also, alone or in a small group, identify a topic/case/statute/etc. related to those covered during the semester and will edit or create its respective Wikipedia entry so as to improve Wikipedia's coverage of Intellectual Property law topics. Topic proposals and, for group projects, an explanation of each group member's responsibilities will be submitted and approved in advance. See schedule below for exact due dates. Each student will also sign up to review and edit the Wikipedia pages edited by two fellow students.
+
+Attendance is expected. If you need to miss all or a portion of a class, I will assume you have a good reason, so you need not detail it for me. If you like, you can simply send me an email letting me know you need to miss, but it is not necessary.
+
+'''Textbook:''' Lemley, Menell, Merges, & Samuelson, Software and Internet Law ("SAIL") (4th ed. 2011); additional readings available online. (This textbook is also used for INFO 235 Cyberlaw, to be offered Spring 2012).
+
+'''Prerequisites:''' None; Students from all levels (graduate/undergraduate) and schools on campus are welcome. However, this is a graduate-level course, so interested undergraduates are encouraged to meet with me before enrolling (or before the drop deadline).
+
+'''Course Description (from the Course Catalog):''' This course will provide an overview of the intellectual property laws with which information managers need to be familiar. It will start with a consideration of trade secrecy law that information technology and other firms routinely use to protect commercially valuable information. It will then consider the role that copyright law plays in the legal protection of information products and services. Although patents for many years rarely were available to protect information innovations, patents on such innovations are becoming increasingly common. As a consequence, it is necessary to consider standards of patentability and the scope of protection that patent affords to innovators. Trademark law allows firms to protect words or symbols used to identify their goods or services and to distinguish them from the goods and services of other producers. It offers significant protection to producers of information products and services. Because so many firms license intellectual property rights, some coverage of licensing issues is also important. Much of the course will concern the legal protection of computer software and databases, but it will also explore some intellectual property issues arising in cyberspace.
+
+'''Course Goals:''' We will survey trade secret, copyright, trademark, and patent law. Students will, for the most part, be introduced to these topics through reading of judicial opinions, in-class lectures, and discussions. Students will illustrate their understanding of the material through discussions, writing assignments, and the final exam.
+
+'''Add/Drop Policy:''' The university determines the last day to drop without a "W". Check with the Registrar.
+
+'''Academic Honesty:''' U.C. Berkeley's Code of Student Conduct prohibits all forms of academic misconduct including but not limited to cheating, fabrication, plagiarism, or facilitating academic dishonesty. See Policy 102.01 at http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc100.html and http://students.berkeley.edu/uga/conductiii-vii.asp#V It is my policy to pursue the discipline of such misconduct, including, but not limited to, the entering of a grade of F in the course and a notation (or equivalent) on the student's transcript of the reason for same.
+
+'''Resources:''' http://dictionary.law.com/ Judges and professors use a lot of legal jargon. Here's a way to look it up.
+
+'''Students with disabilities:''' Students with disabilities who may need accommodations for any sort of disability are invited to make an appointment to see me.
+
+'''Special Thanks:''' to those who previously taught this course, Jason Schultz, Aaron Perzanowski, Fred von Lohmann, and Pamela Samuelson, upon whose work this syllabus is based.
+
+
+----
+'''SCHEDULE''':
+
+===Thursday, August 25===
+* Intro to Trade Secrets, Copyright, Patents, & Trademark Law, statutory and/or constitutional bases for same;
+* Administrative matters (exams, participation, reading court opinions, U.S. courts);
+* Explanation of Wikipedia Project.
+
+
+----
+
+===Tuesday, August 30=== 
+'''(A-K on call)'''
+* Orin S. Kerr, ''[http://volokh.com/files/howtoread2007version.pdf How to Read a Legal Opinion]''
+* '''Trade Secrets: elements, misappropriation, reverse engineering''' '''SAIL 3-6.'''
+** ''[http://scholar.google.com/scholar_case?q=824+F.+Supp.+961&hl=en&as_sdt=2,5&as_vis=1&case=1722485855747148835&scilh=0 Rivendell Forest Products v. Georgia Pac. Corp.]'', 824 F. Supp. 961 (D. Colo. 1993). '''SAIL 6-10.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/28/28.F3d.1042.93-1110.html Rivendell Forest Products v. Georgia Pac. Corp.]'', 28 F.3d 1042 (10th Cir. 1994). '''SAIL 10-13.'''
+** ''[http://scholar.google.com/scholar_case?q=297+A.2d+433&hl=en&as_sdt=2,5&as_vis=1&case=1665752032678053994&scilh=0 Data General Corp. v. Digital Computer Controls, Inc.]'', 297 A.2d 433 (Del. Ch. 1971). '''SAIL 13-18.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/3/3.F3d.730.92-1837.html Comprehensive Techs. Int'l, Inc. v. Software Artisans, Inc.]'', 3 F.3d 730 (4th Cir. 1993). '''SAIL 19-25.'''
+
+
+----
+
+===Thursday, September 1===
+'''(L-Z on call)'''
+* '''Trade Secrets: elements, misappropriation, reverse engineering''' (continued) '''SAIL 25-29'''
+** ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/09/08/0755217.pdf Asset Mktg Sys. v. Gagnon]'', 542 F.3d 748 (9th Cir. 2008).
+* '''Trade Secrets: "inevitable disclosure" and non-compete agreements'''
+** Gene Johnson, ''[http://seattletimes.nwsource.com/html/businesstechnology/2002492336_webmsftgoog13.html Judge rules former Microsoft executive Lee can recruit for Google]'', The Seattle Times (Sep. 13, 2005).
+** ''[http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/f/fc/Microsoft_Corp_v_Lee.pdf Microsoft Corp. v. Lee]'', No. 05-2-23561-6 SEA (Wash. Sup. Ct. Sep. 13, 2005).
+** ''[http://www.tradesecretsnoncompetelaw.com/uploads/file/Papermasterdecision.pdf IBM v. Papermaster]'', No. 08-9078, 2008 U.S. Dist. LEXIS 95516 (S.D.N.Y. Nov. 21, 2008). 
+
+
+----
+
+===Tuesday, September 6===
+'''(A-K on call)'''
+* Create a Wikipedia account and list your username on our Wikipedia United States Education [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:United_States_Education_Program/Courses/Intellectual_Property_law_(Brian_Carver)/Students course page].
+* '''Copyright Overview: intro, scope, exclusive rights, remedies'''
+** [http://www.law.cornell.edu/uscode/17/usc_sup_01_17_10_1.html 17 U.S.C. §§ 102 & 106].
+* '''Copyright Protection for Code: copying of literal and nonliteral elements of code, abstraction-filtration-comparison, copying of functional elements, protocols, screen displays, and user interfaces''' '''SAIL 31-37.'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/982/982.F2d.693.91-7935.91-7893.762.html Computer Assocs. Int'l v. Altai, Inc.]'', 982 F.2d 693 (2d Cir. 1992). '''SAIL 38-53.'''
+
+
+----
+
+===Thursday, September 8===
+'''(L-Z on call)'''
+* Review [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:WikiProject_Intellectual_Property_law_2011_Berkeley#Content_Guidelines Wikipedia Content guidelines] and the [http://outreach.wikimedia.org/wiki/Verifiability_and_Neutral_point_of_view_(Bookshelf) instructional video on verifiability and neutral point of view].
+* '''Copyright Protection for Code:''' (continued)
+** ''[http://bulk.resource.org/courts.gov/c/F3/49/49.F3d.807.93-2214.html Lotus Dev. Corp. v. Borland Int'l]'', 49 F.3d 807 (1st Cir. 1995). '''SAIL 54-75.'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/862/862.F2d.204.87-2294.html Data East USA, Inc. v. Epyx, Inc.]'', 862 F.2d 204 (9th Cir. 1988). '''SAIL 75-79.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/35/35.F3d.1435.93-16883.93-16869.93-16867.html Apple Computer, Inc. v. Microsoft Corp.]'', 35 F.3d 1435 (9th Cir. 1994). '''SAIL 79-85.'''
+
+
+----
+
+===Tuesday, September 13===
+'''(A-K on call)'''
+* Review some existing Wikipedia articles (see [http://en.wikipedia.org/wiki/User:Brianwc Brian's Userspace] for a list of prior articles his students have created or substantially revised).
+* '''Ownership of Copies: First Sale and Section 117'''
+** [http://www.law.cornell.edu/uscode/17/usc_sup_01_17_10_1.html 17 U.S.C. §§ 109, 117]. '''SAIL 86-98.'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/991/991.F2d.511.92-55363.93-55106.html MAI Sys. Corp. v. Peak Computer, Inc.]'', 991 F.2d 511 (9th Cir. 1993) (Read ONLY paragraphs 54-71).
+** ''[http://scholar.google.com/scholar_case?q=846+F.+Supp.+208&hl=en&as_sdt=2,5&case=2026920118706331357&scilh=0 Microsoft Corp. v. Harmony Computers & Elecs., Inc.]'', 846 F. Supp. 208 (E.D.N.Y. 1994). 
+** ''[http://bulk.resource.org/courts.gov/c/F3/66/66.F3d.1091.94-55029.html Microsoft Corp. v. DAK Indus., Inc.]'', 66 F.3d 1091 (9th Cir. 1995) (Read ONLY paragraphs 1-13 & 25-31).
+** ''[http://scholar.google.com/scholar_case?q=Softman+Products+Co.+v.+Adobe+Sys.,+Inc.&hl=en&as_sdt=2003&case=9246692339626850059&scilh=0 Softman Products Co. v. Adobe Sys., Inc.]'', 171 F. Supp. 2d 1075 (C.D. Cal. 2001). '''SAIL 238-251.'''
+
+
+----
+
+===Thursday, September 15===
+'''(L-Z on call)'''
+* Select the article you will work on as your main Wikipedia project and put your username next to the article on [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:WikiProject_Intellectual_Property_law our WikiProject page].
+* '''Ownership of Copies: First Sale and Section 117''' (continued)
+** ''[http://virtuallyblind.com/files/mdy/07-14-08_Order.pdf MDY Indus. LLC v. Blizzard Entm't, Inc.]'', No. 06-2555, 2008 U.S. Dist. LEXIS 53988, 2008 WL 2757357 (D. Ariz. Jul. 14, 2008).
+** ''[http://www.citizen.org/documents/Order%20Granting%20%20Summary%20Judgment.pdf Vernor v. Autodesk, Inc.]'', 2009 WL 3187613  (W.D. Wash. 2009). 
+** Brian W. Carver, ''[http://ssrn.com/abstract=1586580 Why License Agreements Do Not Control Copy Ownership: First Sales and Essential Copies]'', Berkeley Tech. L.J. (forthcoming).
+** ''[http://courtlistener.com/ca9/Timothy-Vernor-v.-Autodesk,-Inc./ Vernor v. Autodesk, Inc.]'', No. 09-35969 (9th Cir. Sep. 10, 2010). '''SAIL 227-238.'''
+
+----
+
+===Tuesday, September 20===
+'''(A-K on call)'''
+* Begin compiling a bibliography and studying the sources. (Use your Wikipedia userspace to compile this list.)
+* '''Derivative Works'''
+** [http://www.law.cornell.edu/uscode/17/usc_sec_17_00000103----000-.html 17 U.S.C. § 103].
+** ''[http://bulk.resource.org/courts.gov/c/F2/704/704.F2d.1009.82-1607.html Midway Mfg. Co. v. Artic Int'l, Inc.]'', 704 F.2d 1009 (7th Cir. 1983). '''SAIL 98-104.'''
+* '''Fair Use'''
+** [http://www.law.cornell.edu/uscode/17/usc_sec_17_00000107----000-.html 17 U.S.C. § 107].
+** ''[http://bulk.resource.org/courts.gov/c/F2/964/964.F2d.965.91-16205.html Lewis Galoob Toys, Inc. v. Nintendo of Am., Inc.]'', 964 F.2d 965 (9th Cir. 1992). '''SAIL 104-109.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/154/154.F3d.1107.html Micro Star v. Formgen Inc.]'', 154 F.3d 1107 (9th Cir. 1998). '''SAIL 109-115.'''
+
+
+----
+
+===Thursday, September 22===
+* Wikipedia article workshop ("Everything you ever wanted to know about editing Wikipedia but were afraid to ask.")
+
+
+----
+
+===Tuesday, September 27===
+'''(A-K on call)'''
+* Bibliography for Wikipedia article due.
+* '''Using information location tools as fair use'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/336/336.F3d.811.00-55521.html Kelly v. Arriba Soft Corp.]'', 336 F.3d 811 (9th Cir. 2003). 
+** ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/12/03/0655405.pdf Perfect 10, Inc. v. Amazon.com, Inc.]'', 508 F.3d 1146 (9th Cir. 2007). '''SAIL 534-546 & 583-589'''
+* '''Google Books Settlement'''
+** Eric Schmidt, ''[http://googleblog.blogspot.com/2005/10/point-of-google-print.html Books of Revelation]'', The Wall Street Journal, October 18, 2005.
+** Pamela Samuelson, ''[http://ssrn.com/abstract=1387782 Legally Speaking: The Dead Souls of the Google Booksearch Settlement]'', Communications of the ACM, Vol. 52 (Jul. 2009).
+
+
+----
+
+===Thursday, September 29===
+'''(L-Z on call)'''
+* '''Contract Formation: Shrinkwrap, Clickwrap, and Browsewrap licenses'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/939/939.F2d.91.90-1859.html Step-Saver Data Sys. v. Wyse Tech.]'', 939 F.2d 91 (3d Cir. 1991). '''SAIL 256-263.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/86/86.F3d.1447.96-1139.html ProCD, Inc. v. Zeidenberg]'', 86 F.3d 1447 (7th Cir. 1996). '''SAIL 263-269.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/306/306.F3d.17.01-7860.01-7872.01-7870.html Specht v. Netscape Commc'ns Corp.]'', 306 F.3d 17 (2d Cir. 2002). '''SAIL 270-280.'''
+
+
+----
+
+===Tuesday, October 4===
+'''(A-K on call)'''
+* Outline draft of Wikipedia project due. Begin writing 3-4 paragraph summary version of article (with citations).
+* '''Reverse Engineering'''
+** ''[http://ftp.resource.org/courts.gov/c/F2/847/847.F2d.255.87-3516.html Vault Corp. v. Quaid Software Ltd.]'', 847 F.2d 255 (5th Cir. 1988). '''SAIL 287-291'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/977/977.F2d.1510.92-15655.html Sega Enters. Ltd. v. Accolade, Inc.]'', 977 F.2d 1510 (9th Cir. 1992) (Read copyright portion only). '''SAIL 116-131.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/320/320.F3d.1317.01-1109.01-1108.html Bowers v. Baystate Techs., Inc.]'', 320 F.3d 1317 (Fed. Cir. 2003). (Read ONLY paragraphs 1-33 & 62-77).
+* '''Copyright Misuse'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/911/911.F2d.970.89-3245.html Lasercomb Am., Inc. v. Reynolds]'', 911 F.2d 970 (4th Cir. 1990). '''SAIL 131-138.'''
+
+
+----
+
+===Thursday, October 6===
+'''(L-Z on call)'''
+* '''Copyright Liability for Intermediaries: Internet Service and Access Providers'''
+** ''[http://www.law.cornell.edu/copyright/cases/907_FSupp_1361.htm Religious Tech. Ctr. v. Netcom On-Line Commc'n Servs., Inc.]'', 907 F. Supp. 1361 (N.D. Cal. 1995). '''SAIL 507-514.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/373/373.F3d.544.03-1911.html Costar Group, Inc. v. Loopnet, Inc.]'', 373 F.3d 544 (4th Cir. 2004).
+** ''[http://www.ca2.uscourts.gov/decisions/isysquery/339edb6b-4e83-47b5-8caa-4864e5504e8f/1/doc/07-1480-cv_opn.pdf Cartoon Network, LP v. CSC Holdings, Inc.]'', 536 F.3d 121 (2d Cir. 2008). '''SAIL 514-526.'''
+
+
+----
+
+===Tuesday, October 11===
+'''(A-K on call)'''
+* Continue revising and improving Wikipedia article. Refer to Brian's [[Wikipedia Project Checklist]]!
+* '''Contributory and Vicarious Liability for Copyright Infringement'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/239/239.F3d.1004.00-16403.00-16401.html A&M Records, Inc. v. Napster, Inc.]'', 239 F.3d 1004 (9th Cir. 2001). '''SAIL 546-562.'''
+** ''[http://w2.eff.org/IP/P2P/MGM_v_Grokster/04-480.pdf Metro-Goldwyn-Mayer Studios, Inc. v. Grokster, Ltd.]'', 545 U.S. 913 (2005). (Read Only Sections I, II.A and III.A&B of the Grokster majority opinion). '''SAIL 562-583.'''
+
+
+----
+
+===Thursday, October 13===
+'''(L-Z on call)'''
+* '''Sign up to be the First Reviewer of a classmate's Wikipedia article'''
+* '''Paracopyright: DMCA Section 1201'''
+** [http://www4.law.cornell.edu/uscode/17/1201.html 17 U.S.C. § 1201]. '''SAIL 589-590.'''
+** Pamela Samuelson, ''[http://people.ischool.berkeley.edu/~pam/papers/Samuelson.pdf Intellectual Property and the Digital Economy: Why the Anti-Circumvention Regulations Need to be Revised]'', 14 Berkeley Tech. L.J. 519 (1999). '''SAIL 590-594.'''
+* '''Paracopyright: DMCA Applications'''
+** ''[http://cyber.law.harvard.edu/openlaw/DVD/NY/trial/op.html Universal City Studios, Inc. v. Reimerdes]'', 111 F. Supp. 2d 294 (S.D.N.Y. 2000). '''SAIL 594-611.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/387/387.F3d.522.03-5400.html Lexmark Int'l Inc. v. Static Control Components, Inc.]'', 387 F.3d 522 (6th Cir. 2004). 
+** ''[http://bulk.resource.org/courts.gov/c/F3/381/381.F3d.1178.04-1118.html Chamberlain Group, Inc. v. Skylink Techs., Inc.]'', 381 F.3d 1178 (Fed. Cir. 2004). (Read ONLY paragraphs 1-36 & 49-end). '''SAIL 611-626.'''
+
+
+----
+
+===Tuesday, October 18===
+'''(A-K on call)'''
+* '''Wikipedia Articles Due''' -- Did you use Brian's [[Wikipedia Project Checklist]]?!?
+* Sign up to be a Second Reviewer of a classmate's article.
+* '''DMCA Safe Harbors'''
+** [http://www.law.cornell.edu/uscode/17/512.html 17 U.S.C. § 512]
+** Holden Lenz's [http://www.youtube.com/watch?v=N1KfJHFWlhQ "Let's Go Crazy" #1] (Direct video link)
+** ''[http://www.eff.org/files/filenode/lenz_v_universal/lenzorder082008.pdf Lenz v. Universal Music Corp.]'', No. C07-3783 JF, 2008 U.S. Dist. LEXIS 66335 (N.D. Cal. Aug. 20, 2008). 
+** ''[http://www.eff.org/files/Io%20v.%20Veoh%20(d%20ct).pdf IO Group, Inc. v. Veoh Networks, Inc.]'', No. C06-03926 HRL, 2008 U.S. Dist. LEXIS 65915 (N.D. Cal. Aug. 27, 2008).
+**''[http://www.google.com/press/pdf/msj_decision.pdf Viacom Int'l Inc. v. Youtube, Inc.]'', No. 07 Civ. 2103 (S.D.N.Y. June 23, 2010).
+
+
+----
+
+===Thursday, October 20===
+'''(L-Z on call)'''
+* '''Finish reviewing, editing, and DYK nomination for a classmate's Wikipedia article by Friday, October 21st.'''
+* Have I mentioned Brian's [[Wikipedia Project Checklist]]? Use it. Report on your work as a first reviewer by completing [http://survey.sharealike.net/ this survey].
+* '''Free Software Licensing'''
+** Brian W. Carver, ''[http://ssrn.com/abstract=1586574 Share and Share Alike: Understanding and Enforcing Open Source and Free Software Licenses]'', 20 Berkeley Tech. L.J. 443 (2005). '''SAIL 298-305.'''
+** [http://www.opensource.org/licenses/artistic-license-1.0.php The Artistic License]
+** ''[http://jmri.sourceforge.net/k/docket/cafc-pi-1/08-1001.pdf Jacobsen v. Katzer]'', 535 F.3d 1373 (Fed. Cir. 2008). '''SAIL 305-311.'''
+** Brett Smith, ''[http://www.fsf.org/licensing/licenses/quick-guide-gplv3.html A Quick Guide to GPLv3]''
+
+
+----
+
+===Tuesday, October 25=== 
+'''(A-K on call)'''
+* '''Creative Commons Licensing'''
+** Creative Commons, [http://support.creativecommons.org/videos/ Get Creative] video
+** Creative Commons, [http://support.creativecommons.org/videos/ Wanna Work Together?] video
+** "View the Legal Code" for some of the licenses at http://creativecommons.org/about/license/
+
+
+----
+
+===Thursday, October 27===
+'''(L-Z on call)'''
+* '''Trademark Law: Domain Names and Cybersquatting''' '''SAIL 397-399.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/141/141.F3d.1316.97-55467.html Panavision Int'l, L.P. v. Toeppen]'', 141 F.3d 1316 (9th Cir. 1998). '''SAIL 399-405.'''
+** ''[http://www.internetlibrary.com/pdf/Planned-Parenthood-Bucci-SD-NY.pdf Planned Parenthood Fed'n of Am., Inc. v. Bucci]'', 42 U.S.P.Q.2d 1430 (S.D.N.Y. 1997). '''SAIL 405-416.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/263/263.F3d.359.00-2289.00-1918.html People for the Ethical Treatment of Animals v. Doughney]'', 263 F.3d 359 (4th Cir. 2001). '''SAIL 416-420.'''
+* '''The Anticybersquatting Consumer Protection Act (ACPA)''' '''SAIL 420-421.'''
+** [http://www.law.cornell.edu/uscode/html/uscode15/usc_sec_15_00001125----000-.html 15 U.S.C. § 1125(d)]
+** ''[http://bulk.resource.org/courts.gov/c/F3/254/254.F3d.476.00-2236.html Shields v. Zuccarini]'', 254 F.3d 476 (3d Cir. 2001). '''SAIL 421-426.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/263/263.F3d.359.00-2289.00-1918.html People for the Ethical Treatment of Animals v. Doughney]'', 263 F.3d 359 (4th Cir. 2001). '''SAIL 426-428.'''
+
+
+----
+
+===Tuesday, November 1===
+'''(A-K on call)'''
+* '''Trademark Law: Metatags'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/174/174.F3d.1036.98-56918.html Brookfield Commc'ns, Inc. v. West Coast Ent'mt Corp.]'', 174 F.3d 1036 (9th Cir. 1999). '''SAIL 442-449.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/279/279.F3d.796.00-55538.00-55537.00-55229.00-55009.html Playboy Enters., Inc. v. Welles]'', 279 F.3d 796 (9th Cir. 2002). '''SAIL 450-455.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/403/403.F3d.672.04-55962.html Bosley Med. Inst. v. Kremer]'', 403 F.3d 672 (9th Cir. 2005).
+
+
+----
+
+===Thursday, November 3===
+'''(L-Z on call)'''
+* '''Trademark Law: Pop-up and keyword advertising, gripe sites'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/414/414.F3d.400.04-0446-.04-0026-.html 1-800 Contacts, Inc. v. WhenU.com, Inc.]'', 414 F.3d 400 (2d Cir. 2005). '''SAIL 456-463.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/354/354.F3d.1020.00-56662.00-56648.html Playboy Enters., Inc. v. Netscape Commc'ns Corp.]'', 354 F.3d 1020 (9th Cir. 2004). '''SAIL 479-488.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/420/420.F3d.309.04-2122.04-2011.html Lamparello v. Falwell]'', 420 F.3d 309 (4th Cir. 2005). '''SAIL 428-434 & 489-494.'''
+** ''[http://sharealike.org/wp-content/uploads/sharealike/2008/11/google_v_american_blind_nd_cal_2007.pdf Google, Inc. v. Am. Blind & Wallpaper Factory]'', (N.D. Cal., Apr. 18, 2007).
+
+
+----
+
+===Tuesday, November 8===
+'''(A-K on call)'''
+* '''Wikipedia Project Second Reviews and Edits Due''' -- Brian's [[Wikipedia Project Checklist]] even has guidelines for second reviews!
+* '''Trademark Law: Pop-up and keyword advertising, gripe sites''' (continued)
+** ''[http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/1/1c/Rescuecom_Corp_v_Google_Inc.pdf Rescuecom Corp. v. Google, Inc.]'', 562 F.3d 123 (2d Cir. 2009). '''SAIL 463-470.'''
+* '''Trademark Law: Contributory Infringement'''
+** ''[http://courtlistener.com/ca2/ju/tiffany-nj-inc-v-ebay-inc/ Tiffany (NJ) Inc. v. eBay Inc.]'', (2d Cir. 2010). '''SAIL 495-506.'''
+* '''Trademark Law: Functional Use'''
+** ''[http://bulk.resource.org/courts.gov/c/F2/977/977.F2d.1510.92-15655.html Sega Enters. Ltd. v. Accolade, Inc.]'', 977 F.2d 1510 (9th Cir. 1992) (Read trademark portion only). '''SAIL 221-226.'''
+
+
+----
+
+===Thursday, November 10===
+'''(L-Z on call)'''
+* '''Patent Law: Is software patentable subject matter? and software as a "Method of Doing Business"''' '''SAIL 139-145.'''
+** [http://www.law.cornell.edu/uscode/html/uscode35/usc_sup_01_35_10_II_20_10.html 35 U.S.C. §§ 100-104, 112]
+** [http://www.google.com/patents?vid=USPAT5111391 U.S. Patent No. 5,111,391]
+** [http://www.google.com/patents?vid=USPAT5443036 U.S. Patent No. 5,443,036]
+** ''[http://bulk.resource.org/courts.gov/c/F3/149/149.F3d.1368.96-1327.html State Street Bank & Trust v. Signature Fin. Servs.]'', 149 F.3d 1368 (Fed. Cir. 1998). 
+** ''[http://bulk.resource.org/courts.gov/c/F3/172/172.F3d.1352.98-1338.html AT&T Corp. v. Excel Commc'ns, Inc.]'', 172 F.3d 1352 (Fed. Cir. 1999). 
+**''[http://www.supremecourt.gov/opinions/09pdf/08-964.pdf Bilski v. Kappos]'', No. 08-964, 561 U.S. __ (2010). '''SAIL 145-158.'''
+
+
+----
+
+===Tuesday, November 15===
+'''(L-Z on call)'''
+* '''Patent Law: Examination and Validity of Software Patents - Novelty and Nonobviousness'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/295/295.F3d.1315.01-1455.html Netscape Commc'ns Corp. v. Konrad]'', 295 F.3d 1315 (Fed. Cir. 2002). '''SAIL 158-164.'''
+** ''[http://bulk.resource.org/courts.gov/c/F3/107/107.F3d.1565.96-1168.html Lockwood v. Am. Airlines, Inc.]'', 107 F.3d 1565 (Fed. Cir. 1997). '''SAIL 164-168.'''
+** Note on Obviousness and Computer-Implemented Inventions; Sec. 102(g); Prior User Rights. '''SAIL 168-175.'''
+** ''[http://ftp.resource.org/courts.gov/c/F3/424/424.F3d.1336.05-1062.html LizardTech, Inc. v. Earth Resource Mapping, Inc.]'', 424 F.3d 1336 (Fed. Cir. 2005). '''SAIL 175-180.'''
+
+
+----
+
+===Thursday, November 17===
+'''(A-K on call)'''
+* '''Nonobviousness''' (continued)
+**''[http://scholar.google.com/scholar_case?case=4144186526558027266&hl=en&as_sdt=2&as_vis=1&oi=scholarr Perfect Web Technologies, Inc. v. InfoUSA, Inc.]'', 587 F.3d 1324 (Fed. Cir. 2009).
+* '''Accessibility of Printed Publication'''
+** ''[http://www.ll.georgetown.edu/federal/judicial/fed/opinions/07opinions/07-1065.pdf SRI Int'l, Inc. v. Internet Sec. Sys., Inc.]'', 511 F.3d 1186 (Fed. Cir. 2008).
+
+
+----
+
+===Tuesday, November 22===
+'''(L-Z on call)'''
+* '''Patent Exhaustion'''
+** ''[http://www.supremecourt.gov/opinions/07pdf/06-937.pdf Quanta Computer, Inc. v. LG Elecs., Inc.]'', 128 S. Ct. 2109 (2008).
+** ''[http://scholar.google.com/scholar_case?case=6662452052889665124&hl=en&as_sdt=2&as_vis=1&oi=scholarr LG Elecs., Inc. v. Hitachi Am. Ltd.]'', 655 F.Supp.2d 1036 (N.D. Cal. 2009).
+** ''[http://courtlistener.com/cafc/KNg/fujifilm-corp.-v.-benun/ Fujifilm Corp. v. Benun]'', 605 F.3d 1366 (Fed. Cir. 2010).
+
+
+----
+
+===Thursday, November 24 (THANKSGIVING – NO CLASS)===
+* '''Thanksgiving Day. No Class.'''
+
+
+----
+
+===Tuesday, November 29===
+'''(A-K on call)'''
+* '''"Hot News" Misappropriation'''
+** ''[http://ftp.resource.org/courts.gov/c/US/248/248.US.215.221.html International News Service v. Associated Press]'', 248 U.S. 215 (1918). '''SAIL 1069-1084.'''
+** ''[http://ftp.resource.org/courts.gov/c/F3/105/105.F3d.841.96-9123.96-7983.96-7975.822.824.html National Basketball Association v. Motorola, Inc.]'', 105 F.3d 841 (2d Cir. 1997). '''SAIL 1084-1097.'''
+** ''[http://courtlistener.com/ca2/288z/barclays-capital-inc-v-theflyonthewallcom-inc/?q=barclay%27s%20capital Barclays Capital Inc. v. Theflyonthewall.com]'', __ F.3d __ (2d Cir. 2011).
+
+
+----
+
+===Thursday, December 1===
+* Overview/Summary
+* '''OPTIONAL''' Reading on the New Patent Act:
+** Mark Lemley, ''[http://ssrn.com/abstract=1929044 Things You Should Care About in the New Patent Statute]'' (2011).
+** The New [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/1/11/AIA-102.pdf Section 102].
+
+
+----
+
+===Tuesday, December 6 (RRR Week – NO CLASS)===
+* '''RRR Week – No Class.'''
+
+
+----
+
+===Thursday, December 8 (RRR Week – NO CLASS)===
+* '''RRR Week – No Class.'''
+
+
+----
+
+===December 12-13 FINAL EXAM===
+* '''24-Hour Take-Home exam'''
+** Available December 12, 9:00 A.M.; '''DUE December 13, 9:00 A.M.'''
+
+
+----
+

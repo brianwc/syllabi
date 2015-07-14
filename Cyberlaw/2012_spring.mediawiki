@@ -1,0 +1,452 @@
+==='''Syllabus'''===
+'''University of California at Berkeley, Spring 2014'''<br>
+'''LAW 276.1 and INFO 235 Cyberlaw'''<br>
+'''Days and Time Tuesday and Thursday 11:00 a.m. - 12:30 p.m. (3 units)'''<br>
+'''Location South Hall 210'''<br>
+
+'''Instructor:''' Brian W. Carver (bcarver at ischool dot berkeley dot edu)<br>
+207C South Hall <br>
+510.643.1469 
+
+'''Office Hours:''' Tuesday and Thursday 10:00 a.m. - 11:00 a.m. (Sign up at [http://www.wejoinin.com/sheets/lgabj wejoinin])
+
+'''Course Websites:'''
+
+* [http://people.ischool.berkeley.edu/~bcarver/ http://people.ischool.berkeley.edu/~bcarver/] (Main Site)
+* [http://bspace.berkeley.edu/ http://bspace.berkeley.edu] (Slides or handouts used in class)
+* [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2014) Wikipedia Course Page] (Info re Wikipedia Assignment)
+* [http://piazza.com/berkeley/spring2014/info235law2761/home http://piazza.com/berkeley/spring2014/info235law2761/home] (For class-related discussion)
+
+'''Grade and Attendance:'''
+
+* Final Paper: 45%
+* Wikipedia Project (40% total)
+** Initial Article(s) (15%)
+** First Peer Review (10%)
+** Second Peer Review (15%)
+* Participation: 15%
+
+
+Each student will be required to write a paper, due at the end of the term, of approximately 20-35 pages (5,000-8,750 words), on a topic related to those covered during the semester. Each student will also be required to submit an outline of their proposed final paper at least one month prior to the paper due date. The outline will not be separately graded . See schedule below for exact due dates. Everyone should ensure that their paper's format conforms to that described in the Paper Template handout.
+
+Note: JD students (but not LLM students) must write a paper that exceeds 7500 words or 30 pages. This enables the course to receive the "Seminar" designation under the Law School's [http://www.law.berkeley.edu/184.htm Grading Rules and Policies] which then enables me to award a greater number of HH or H grades than would be permitted under the usual grading rules and policies. Law Students that wish to use this paper for their Writing Requirement must meet additional deadlines that are merely "suggested" for others and which are detailed on the "Paper Schedule" handout.<br>
+
+I encourage you to discuss paper ideas with me. You may also gain some insight into choosing an appropriate topic or how to approach a seminar paper from the following:<br>
+* Pam Samuelson, ''[http://www.sims.berkeley.edu/%7Epam/papers/goodwriting.html Good Legal Writing: of Orwell and Window Panes]'', 46 Univ. of Pittsburgh L. Rev. 149 (1984).<br>
+* Heather Meeker, ''[http://www.aucegypt.edu/academics/dept/law/Documents/Stalking_the_Golden_Topic_H_Meeker.pdf Stalking the Golden Topic: A Guide to Locating and Selecting Topics for Legal Research Papers]'', 1996 Utah L. Rev. 917 (1996).<br>
+* Eugene Volokh, Extract from ''[http://www.law.ucla.edu/volokh/writing/aextract.pdf Academic Legal Writing: Law Review Articles, Student Notes, Seminar Papers, and Getting on Law Review]'', Foundation Press (2007).
+News articles, legal opinions, and scholarly articles related to the course topics can also be found on Brian's Wiki. Students may find ideas for paper topics or relevant resources on Brian's Wiki.<br>
+
+Each student will also, alone or in a small group, identify a topic/case/statute/etc. related to those covered during the semester and will edit or create its respective Wikipedia entry so as to improve Wikipedia's coverage of Cyberlaw topics. Topic proposals and, for group projects, an explanation of each group member's responsibilities will be submitted and approved in advance. See schedule below for exact due dates. Each student will also sign up to review and edit the Wikipedia pages edited by two fellow students.<br>
+
+While participation from all students is encouraged in each class meeting, half of the class (last names A-K or L-Z) will be "on call" and bear primary responsibility for moving the discussion forward in each class meeting. Attendance is expected. If you need to miss all or a portion of a class, I will assume you have a good reason, so you need not detail it for me. If you like, you can simply send me an email letting me know you need to miss, but it is not necessary.<br>
+
+'''Textbook:''' Lemley, Menell, Merges, Samuelson, & Carver, ''Software and Internet Law'' ("SAIL") (4th ed. 2011); additional readings available online. (This textbook is also used for INFO 237 IP Law for the Information Industries, typically offered each Fall.)
+
+'''Prerequisites:''' None; Students from all levels (graduate/undergraduate) and schools on campus are welcome. However, this is a graduate-level course, so interested undergraduates are encouraged to meet with me before enrolling (or before the drop deadline). Undergraduates must meet additional paper deadlines that are merely "suggested" for others and which are detailed on the "Paper Schedule" handout.
+
+'''Course Description (from the Course Catalog):''' The emergence of global digital networks, such as the Internet, and digital technologies that enhance human abilities to access, store, manipulate, and transmit vast amounts of information has brought with it a host of new legal issues that lawyers preparing to practice in the 21st century will need to understand and address. Although many are trying to "map" existing legal concepts onto problems arising in cyberspace, it is becoming increasingly evident that this strategy sometimes doesn't work. In some cases, it is necessary to go back to first principles to understand how to accomplish the purposes of existing law in digital networked environments. The course will explore specific problems in applying law to cyberspace in areas such as intellectual property, privacy, content control, and the bounds of jurisdiction. Students with familiarity with the Internet and its resources or with backgrounds in some of the substantive fields explored in this course are especially welcome, but there are no formal prerequisites. Grades for the course will be based either on a series of short papers or on a supervised term paper.
+
+'''Course Goals:''' We will survey internet and technology law. Students will, for the most part, be introduced to these topics through reading of judicial opinions, law review articles, in-class lectures, and discussions. Students will illustrate their understanding of the material through discussions, writing assignments, and the final paper.
+
+'''Add/Drop Policy:''' The university determines the last day to drop without a "W". Check with the Registrar.
+
+'''Academic Honesty:''' U.C. Berkeley's Code of Student Conduct prohibits all forms of academic misconduct including but not limited to cheating, fabrication, plagiarism, or facilitating academic dishonesty. See Policy 102.01 at [http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc100.html http://www.ucop.edu/ucophome/coordrev/ucpolicies/aos/uc100.html] and [http://students.berkeley.edu/uga/conductiii-vii.asp#V http://students.berkeley.edu/uga/conductiii-vii.asp#V] It is my policy to pursue the discipline of such misconduct, including, but not limited to, the entering of a grade of F in the course and a notation (or equivalent) on the student's transcript of the reason for same.
+
+'''Resources:''' [http://dictionary.law.com/ http://dictionary.law.com/] Judges and professors use a lot of legal jargon. Here's a way to look it up.
+
+'''Students with disabilities:''' Students with disabilities who may need accommodations for any sort of disability are invited to make an appointment to see me.
+
+'''Special Thanks:''' to those who previously taught this course, Jason Schultz, Aaron Perzanowski, Fred von Lohmann, and Pamela Samuelson, upon whose work this syllabus is based. 
+----
+
+
+'''SCHEDULE:'''
+
+Note: This is a cross-listed course. Unfortunately, the Law School's Academic Calendar does not align with the Academic Calendar of main campus. Law instruction begins Monday
+January 6th, but instruction begins on main campus on Tuesday, January 21st. Law instruction ends on Tuesday April 22nd, but main campus instruction ends Friday, May 9th. While this problem of calendar mis-alignment has existed for several years, the terms are farther apart this year than ever before.
+
+We will address this by having everyone attend a first class meeting on Tuesday, January 21st. I will discuss with those enrolled in LAW 276.1 the best times to schedule some additional sessions in order to cover the same material that those in INFO 235 will cover after Law instruction ends. I expect we will schedule some extra sessions on a few Fridays for those that prefer that, but will also welcome LAW 276.1 students to simply attend the regularly-scheduled meeting times with the INFO 235 students (for those who do not have conflicting exams).
+
+===Jan. 7, Tue. NO CLASS===
+'''NO CLASS'''
+
+
+----
+===Jan. 9, Thu. NO CLASS===
+'''NO CLASS'''
+
+
+----
+===Jan. 14, Tue. NO CLASS===
+'''NO CLASS'''
+
+
+----
+===Jan. 16, Thu. NO CLASS===
+'''NO CLASS'''
+
+
+----
+===Jan. 21, Tue.: Introduction===
+* Orin S. Kerr, ''[http://volokh.com/files/howtoread2007version.pdf How to Read a Legal Opinion]'', 11 Green Bag 2d 51 (2007).
+* John Perry Barlow, ''[http://www.cs.mu.oz.au/%7Ezs/decl.html A Declaration of Independence of Cyberspace]'' (1996).
+* Lawrence Lessig, ''[http://cyber.law.harvard.edu/works/lessig/finalhls.pdf The Law of the Horse]'', 113 Harv. L. Rev. 501 (1999).
+
+
+----
+===Jan. 23, Thu.: Personal Jurisdiction for Online Activities and International Jurisdiction===
+* Wikimedia Foundation, [http://upload.wikimedia.org/wikipedia/commons/f/f0/Welcome2WP_English_082310.pdf Welcome to Wikipedia] (2010).
+* '''Create a Wikipedia username''' ([https://secure.wikimedia.org/wikipedia/en/wiki/File:WP_tutorial_en_New_user_account.ogg video tutorial] if you need it) and list your username on our Wikipedia United States Education [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2014) course page].
+* '''A-K on call'''
+* ''[https://www.courtlistener.com/ca9/4Qxy/cybersell-inc-an-arizona-corporation-v-cybersell-i/ Cybersell, Inc. v. Cybersell, Inc.]'', 130 F.3d 414 (9th Cir. 1997). '''SAIL 320-327'''.
+* ''[http://euro.ecom.cmu.edu/program/law/08-732/Jurisdiction/Zippo%20Mfr_%20Co.pdf Zippo Mfg. Co. v. Zippo Dot Com, Inc.]'', 952 F. Supp. 1119 (W.D. Pa. 1997). '''SAIL 327-334'''.
+* ''[http://www.kentlaw.edu/perritt/courses/civpro/Dow%20Jones%20&%20Company%20Inc_%20v%20Gutnick%20%5B2002%5D%20HCA%2056%20%2810%20December%202002%29.htm Dow Jones v. Gutnick]'', HCA 56 para 15 (10 Dec. 2002) (High Ct. Australia). '''SAIL 385-394'''.
+Optional Readings: [[Personal Jurisdiction for Online Activities and International Jurisdiction]]
+
+
+----
+
+===Jan. 28, Tue.: Personal Jurisdiction for Online Activities and International Jurisdiction===
+* Review Wikipedia's [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:Five_pillars Five pillars] and the core content policies on [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:Neutral_point_of_view Neutral point of view], [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:No_original_research No original research], and [https://secure.wikimedia.org/wikipedia/en/wiki/Wikipedia:Verifiability Verifiability]. Watch the [http://outreach.wikimedia.org/wiki/Verifiability_and_Neutral_point_of_view_(Bookshelf) instructional video on verifiability and neutral point of view].
+* '''L-Z on call'''
+* ''[http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/e/ec/20001120yahoofrance.pdf League Against Racism and Antisemitism v. Yahoo! Inc. ]'', County Court of Paris (Nov. 11, 2000). '''SAIL 363-374'''.
+* ''[https://www.courtlistener.com/ca9/54GG/yahoo-inc-a-delaware-corporation-v-la-ligue-contre/ Yahoo Inc. v. La Ligue Contre Le Racisme et L'antisemitisme]'', 433 F.3d 1199 (9th Cir. 2006) (''en banc''). '''SAIL 374-385'''.
+* ''[http://www.ca10.uscourts.gov/opinions/06/06-1458.pdf Dudnikov v. Chalk & Vermilion Fine Arts, Inc.]'', 514 F.3d 1063 (10th Cir. 2008). '''SAIL 344-356'''.
+* Simson Garfinkel, ''[http://www.wired.com/wired/archive/8.07/haven_pr.html Welcome to Sealand. Now Bugger Off]'', Wired Magazine (July 2000).
+Optional Readings: [[Personal Jurisdiction for Online Activities and International Jurisdiction]]
+
+
+----
+
+===Jan. 30, Thu.: Indecent Speech and Censorship on the Internet===
+* Review some existing Wikipedia articles (see [http://en.wikipedia.org/wiki/User:Brianwc Brian's Userspace] for a list of prior articles his students have created or substantially revised).
+* '''A-K on call'''
+* ''[https://www.courtlistener.com/scotus/B82/reno-v-american-civil-liberties-union/ Reno v. ACLU]'', 521 U.S. 844 (1997). '''SAIL 704-718'''.
+* ''[https://www.courtlistener.com/scotus/GJa/ashcroft-v-american-civil-liberties-union/ Ashcroft v. ACLU]'', 542 U.S. 656 (2004). '''SAIL 718-726'''.
+* ''[https://www.courtlistener.com/scotus/EG2/united-states-v-american-library-assn-inc/ United States v. American Library Association]'', 539 U.S. 194 (2003). '''SAIL 726-735'''.
+Optional Readings: [[Indecent Speech and Censorship on the Internet]]
+
+
+----
+===Feb. 4, Tue.: Indecent Speech and Censorship on the Internet===
+* '''Wikipedia Project Proposals Due''': Sign up for an initial article on our [https://en.wikipedia.org/wiki/Education_Program:University_of_California,_Berkeley/Cyberlaw_(Spring_2014) course page].
+* '''L-Z on call'''
+* ''[https://www.eff.org/files/filenode/Nitke_v_Ashcroft/nitke_v_ashcroft_ruling.pdf Nitke v. Gonzales]'', 413 F. Supp. 2d 262 (S.D.N.Y. 2005). '''SAIL 735-741'''.
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2009/10/28/07-10528.pdf United States v. Kilbride]'', Nos. 07-10528 & 07-10534 (9th Cir. Oct. 28, 2009) (read only up to section II. B, i.e., pages 1-23). '''SAIL 741-751'''.
+Optional Readings: [[Indecent Speech and Censorship on the Internet]]
+
+
+----
+
+===Feb. 6, Thu.: Immunity for Internet Intermediaries===
+* Begin compiling a bibliography and studying the sources for your Wikipedia article. (Consider using your Wikipedia userspace to compile this list.)
+* '''A-K on call'''
+* [http://www4.law.cornell.edu/uscode/47/230.html 47 U.S.C. § 230].
+* ''[https://www.courtlistener.com/ca4/4QpK/kenneth-m-zeran-v-america-online-incorporated/ Zeran v. America OnLine, Inc.]'', 129 F.3d 327 (4th Cir. 1997). '''SAIL 665-670'''.
+* ''[http://www.techlawjournal.com/courts/drudge/80423opin.htm Blumenthal v. Drudge]'', 992 F.Supp. 44 (D.D.C. 1998). '''SAIL 670-675'''.
+* ''[http://w2.eff.org/legal/cases/Barrett_v_Rosenthal/ruling.pdf Barrett v. Rosenthal]'', 40 Cal. 4th 33 (2006). '''SAIL 675-688'''.
+Optional Readings: [[Immunity for Internet Intermediaries]]
+
+
+----
+
+===Feb. 11, Tue.: Immunity for Internet Intermediaries===
+* '''Wikipedia article bibliography due.'''
+* '''L-Z on call'''
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/04/02/0456916.pdf Fair Housing Council of San Fernando Valley v. Roommates.com, LLC]'', 521 F.3d 1157 (9th Cir. 2008) (''en banc''). '''SAIL 688-696'''.
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2009/06/22/05-36189.pdf Barnes v. Yahoo!, Inc.]'', No. 05-36189 (9th Cir. Jun. 22, 2009). '''SAIL 697-704'''.
+Optional Readings: [[Immunity for Internet Intermediaries]]
+
+
+----
+
+===Feb. 13, Thu.: Liability for Distributing Information Obtained by Others===
+* '''Wikipedia article outline due.'''
+* ''Paper bibliography due'' for undergraduates and Law School Writing Requirement.
+* '''A-K on call'''
+* ''[https://www.courtlistener.com/scotus/BcR/bartnicki-v-vopper/ Bartnicki v. Vopper]'', 532 U.S. 514 (2001). '''SAIL 806-814'''.
+* ''[http://w2.eff.org/IP/Video/DVDCCA_case/20021125_pavlovich_opinion.pdf Pavlovich v. Superior Court]'', 29 Cal. 4th 262 (2002). '''SAIL 356-362'''.
+* ''[http://w2.eff.org/IP/Video/DVDCCA_case/S102588_bunner_decision.pdf DVD CCA v. Bunner]'', 31 Cal. 4th 864 (Cal. 2003). '''SAIL 814-837'''.
+* ''[http://www.eff.org/IP/Video/DVDCCA_case/20040227_Decision.pdf DVD CCA v. Bunner]'', 116 Cal. App. 4th 241 (Cal. Ct. App. 2004). '''SAIL 837-846'''.
+Optional Readings: [[Liability for Posting Information Obtained by Others]]
+
+
+----
+===Feb. 18, Tue.: Liability for Distributing Information Obtained by Others===
+* '''Everyone should have signed up to Review others' Wikipedia Projects by now.'''
+* '''L-Z on call'''
+* ''[http://www.eff.org/files/filenode/Apple_v_Does/H028579.pdf O’Grady v. Superior Court]'', 139 Cal. App. 4th 1423 (Cal. Ct. App. 2006). '''SAIL 846-876'''.
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2007-06-22-Appeals_Court_Decision.pdf Jean v. Massachusetts State Police]'', 492 F.3d 24 (1st Cir. 2007). '''SAIL 876-882'''.
+* ''[http://www.eff.org/cases/bank-julius-baer-co-v-wikileaks Bank Julius Baer & Co. v. Wikileaks]'', (N.D. Cal.) (2008) (read linked summary).
+Optional Readings: [[Liability for Posting Information Obtained by Others]]
+
+
+----
+
+===Feb. 20, Thu.: In-class Session on Wikipedia Project===
+* '''Come to class prepared to revise and improve your Wikipedia article.'''
+
+
+----
+===Feb. 25, Tue.: Liability for Distributing Information Obtained by Others===
+* '''Continue revising and improving Wikipedia article.'''
+* '''A-K on call'''
+* Rodney A. Smolla, ''[http://heinonline.org/HOL/Page?collection=usjournals&handle=hein.journals/illlr96&id=1109 Information as Contraband: The First Amendment and Liability for Trafficking in Speech]'', 96 Nw. U. L. Rev. 1099 (2002).
+* Jennifer K. Elsea, ''[http://www.fas.org/sgp/crs/secrecy/R41404.pdf Criminal Prohibitions on the Publication of Classified Defense Information]'', Congressional Research Service (Dec. 6, 2010).
+Optional Readings: [[Liability for Posting Information Obtained by Others]]
+
+
+----
+===Feb. 27, Thu.: Copyright Liability for Internet Intermediaries===
+* ''Paper outline due'' for undergraduates and Law School Writing Requirement
+* '''L-Z on call'''
+* ''[http://w2.eff.org/IP/P2P/MGM_v_Grokster/04-480.pdf MGM v. Grokster]'', 545 U.S. 913 (2005). '''SAIL 562-583'''.
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/12/03/0655405.pdf Perfect 10, Inc. v. Amazon.com, Inc.]'', 508 F.3d 1146 (9th Cir. 2007). '''SAIL 583-589'''.
+Optional Readings: [[Copyright Liability for Internet Intermediaries]]
+
+
+----
+
+===Mar. 4, Tue.: Copyright Liability for Internet Intermediaries===
+* '''Wikipedia Articles Due'''
+* '''A-K on call'''
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/05/30/0457143.pdf Perfect 10, Inc. v. ccBill LLC]'', 488 F.3d 1102 (9th Cir. 2007). 
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2007/07/03/0515170.pdf Perfect 10, Inc. v. Visa Int'l Serv. Ass'n]'', 494 F.3d 788 (9th Cir. 2007).
+* ''[http://en.wikisource.org/wiki/Cartoon_Network,_LP_v._CSC_Holdings,_Inc. Cartoon Network, LP v. CSC Holdings, Inc.]'', 536 F.3d 121 (2d Cir. 2008). '''SAIL 514-526'''.
+Optional Readings: [[Copyright Liability for Internet Intermediaries]]
+
+
+----
+
+===Mar. 6, Thu.: Digital Rights Management and Anti-circumvention===
+* '''Wikipedia First Reviews and [https://en.wikipedia.org/wiki/Template_talk:Did_you_know DYK Nomination] Complete''' - Use this "[http://survey.sharealike.net/ survey]" to report on your work as a first reviewer.
+* '''L-Z on call'''
+*''[http://www.eff.org/files/filenode/RealDVD/Real%20v%20DVD-CCA%2C%20PI%20Order%20081109.pdf Realnetworks, Inc. v. DVD Copy Control Assoc., Inc.]'', 641 F. Supp. 2d 913 (N.D. Cal. Aug. 11, 2009).
+*''[http://scholar.google.com/scholar_case?q=DVD+Copy+Control+Assn.,+Inc.+v.+Kaleidescape,+Inc.&hl=en&as_sdt=2,5&case=12960376580676165361&scilh=0 DVD Copy Control Assoc., Inc. v. Kaleidescape, Inc.]'', 176 Cal. App. 4th 697 (Cal. Ct. App. Aug. 12, 2009).
+Optional Readings: [[Digital Rights Management and Anti-circumvention]]
+
+
+----
+
+===Mar. 11, Tue.: Network Neutrality===
+* '''A-K on call'''
+* [http://www.worldofends.com/ http://www.worldofends.com/] (Read 10 principles on main page of site.) 
+* Ed Felten, ''[http://web.archive.org/web/20100618030932/http://itpolicy.princeton.edu/pub/neutrality.pdf Nuts and Bolts of Network Neutrality]''.
+* FCC, ''[http://web.archive.org/web/20131222030958/http://www.publicknowledge.org/pdf/FCC-05-151A1.pdf Internet Policy Statement]'', FCC 05-151 (Sep. 23, 2005).
+Optional Readings: [[Internet Governance and Network Neutrality]]
+
+
+----
+
+===Mar. 12, Wed.: 9th Circuit Day at Boalt Hall, Booth Auditorium 9:00 AM (OPTIONAL)===
+* ''[http://docs.justia.com/cases/federal/district-courts/california/candce/4:2010cv02769/233708/230/0.pdf?1339835429 Adobe Systems Inc. v. Hoops Enterprise LLC]'', No 10-2769 (N.D. Cal. Jun. 15, 2012).
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/010-12-16616-Kornrumpf_opening_brief.pdf Kornrumpf Opening Brief] (9th Cir.)
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/029-12-16616-Adobe_answering_brief.pdf Adobe Answering Brief] (9th Cir.)
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/051-12-16616-Kornrumpf_reply_brief.pdf Kornrumpf Reply Brief] (9th Cir.)
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/063-12-16616-Filed_clerk_order_re_supplemental_briefing.pdf Clerk order re Supplemental Briefing] (9th Cir.)
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/067-12-16616-Adobe_supplemental_brief.pdf Adobe Supplemental Brief] (9th Cir.)
+* [http://people.ischool.berkeley.edu/~bcarver/mediawiki/images/hoops/068-12-16616-Kornrumpf_supplemental_brief.pdf Kornrumpf Supplemental Brief] (9th Cir.)
+
+
+----
+
+===Mar. 13, Thu.: Network Neutrality===
+* '''L-Z on call'''
+* ''[http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-183A1.pdf In the Matters of Formal Complaint of Free Press and Public Knowledge Against Comcast Corporation for Secretly Degrading Peer-to-Peer Applications]'', WC Docket No. 07-52 (FCC 2008).
+* ''[http://courtlistener.com/cadc/oR/comcast-corporation-v-fcc/ Comcast v. FCC]'', 600 F.3d 642 (D.C. Cir. 2010).
+* ''[http://s3.documentcloud.org/documents/23325/fcc-net-neutrality-order.pdf In the Matter of Preserving the Open Internet Broadband Industry Practices]'', FCC 10-201 (Dec. 23, 2010). (Skim this).
+* ''[https://www.courtlistener.com/cadc/ezzW/verizon-v-fcc/ Verizon v. FCC]'', 11-1355 (D.C. Cir. 2014).
+Optional Readings: [[Internet Governance and Network Neutrality]]
+
+
+----
+
+===Mar. 18, Tue.: Fourth Amendment as Applied to Digital Privacy===
+* '''A-K on call'''
+* ''[https://www.courtlistener.com/ca5/31p/steve-jackson-games-inc-v-us-secret-service/ Steve Jackson Games v. United States Secret Service]'', 36 F.3d 457 (5th Cir. 1994). '''SAIL 883-890'''.
+* The Stored Communications Act [http://www4.law.cornell.edu/uscode/18/usc_sup_01_18_10_I_20_121.html 18 U.S.C. §§ 2701-2712].
+* ''[http://courtlistener.com/ca6/VPf/united-states-v-steven-warshak/ United States v. Warshak]'', 631 F.3d 266 (6th Cir. 2010). 
+* ''[http://courtlistener.com/scotus/Let/ontario-v-quon/ Ontario v. Quon]'', 130 S.Ct. 2619 (2010). '''SAIL 954-965'''.
+Optional Readings: [[Fourth Amendment as Applied to Online Privacy ]]
+
+
+----
+
+===Mar. 20, Thu.: Fourth Amendment as Applied to Digital Privacy===
+* '''Continue working on Wikipedia Project Second Reviews'''
+* '''L-Z on call'''
+* ''[http://www.eff.org/files/filenode/att/308_order_on_mtns_to_dismiss.pdf Hepting v. AT&T]'', 439 F. Supp. 2d 974 (N.D. Cal. 2006) '''(pages 1-36)''' '''SAIL 965-984'''.
+* ''[http://www.ca9.uscourts.gov/datastore/opinions/2008/07/09/0650581.pdf United States v. Arnold]'', 533 F.3d 1003 (9th Cir. 2008). '''SAIL 984-991'''.
+Optional Readings: [[Fourth Amendment as Applied to Online Privacy ]]
+
+
+----
+
+===Mar. 25, Tue.: NO CLASS Spring Break===
+* SPRING BREAK NO CLASS
+
+
+----
+===Mar. 27, Thu.: NO CLASS Spring Break===
+* SPRING BREAK NO CLASS
+
+
+----
+===Apr. 1, Tue.: Fifth Amendment and Encryption===
+* '''Note: The facts described in some of these readings are disturbing. No one will be called on. Participation will be completely voluntary.'''
+* ''[http://federalevidence.com/pdf/2009/03-March/InreBoucherI.pdf In re Grand Jury Subpoena (Boucher)]'', No. 2:06-mj-91, 2007 WL 4246473 (D. Vt. Nov. 29, 2007).
+* ''[http://federalevidence.com/pdf/2009/03-March/InreBoucherII.pdf In re Grand Jury Subpoena (Boucher)]'', No. 2:06-mj-91, 2009 WL 424718 (D. Vt. Feb. 19, 2009).
+* ''[http://scholar.google.com/scholar_case?q=United+States+v.+Fricosu&hl=en&as_sdt=2,5&case=7486865546677786730&scilh=0 United States v. Fricosu]'', No. 10-cr-00509-REB-02, 2012 WL 182121 (D. Colo. Jan. 23, 2012).
+* ''[http://www.ca11.uscourts.gov/opinions/ops/201112268.pdf In Re: Grand Jury Subpoena Duces Tecum Dated March 25, 2011, United States v. Doe]'', No. 11-12268 (11th Cir. Feb. 23, 2012).
+
+
+----
+
+===Apr. 3, Thu.: Statutory and Common Law Claims to Protect Online Privacy===
+* '''Wikipedia Project Second Reviews and Edits Due'''
+* When you complete your second review, please add the article you worked on as a second reviewer to [http://en.wikipedia.org/wiki/User:Brianwc Brian's Wikipedia User page] in the appropriate chart and increment the relevant counters that count the number of articles.
+* '''L-Z on call'''
+* Warren & Brandeis, ''[http://www.spywarewarrior.com/uiuc/w-b.htm The Right to Privacy]'', 4 Harvard L. Rev. 193 (1890).
+* ''[https://www.courtlistener.com/ca1/22Ad/blumofe-v-pharmatrak-inc/ In re Pharmatrak, Inc. Privacy Litigation]'', 329 F.3d 9 (1st Cir. 2003). '''SAIL 891-899'''.
+* ''[http://www.loundy.com/CASES/Smyth_v_Pillsbury.html Smyth v. Pillsbury Co.]'', 914 F.Supp. 97 (E.D. Pa. 1996). '''SAIL 899-902'''.
+* ''[https://www.courtlistener.com/ca9/4ZzW/robert-c-konop-v-hawaiian-airlines-inc/ Konop v. Hawaiian Airlines, Inc.]'', 302 F.3d 868 (9th Cir. 2002). '''SAIL 902-909'''.
+Optional Readings: [[Statutory and Common Law Claims to Protect Online Privacy]]
+
+
+----
+
+===Apr. 8, Tue.: Statutory and Common Law Claims to Protect Online Privacy===
+* '''A-K on call'''
+* ''[http://w2.eff.org/legal/cases/US_v_Ropp/ropp_ruling_20041008.pdf United States v. Ropp]'', 347 F. Supp. 2d 831 (C.D. Cal. 2004). '''SAIL 909-915'''.
+* ''[http://crt.li/x/22Yz United States v. Councilman]'', 418 F.3d 67 (1st Cir. 2005) (''en banc''). '''SAIL 915-928'''.
+Optional Readings: [[Statutory and Common Law Claims to Protect Online Privacy]]
+
+
+----
+
+===Apr. 10, Thu.: Civil and Criminal Hacking (The Computer Fraud and Abuse Act)=== 
+* '''L-Z on call'''
+* [http://www4.law.cornell.edu/uscode/18/1030.html 18 U.S.C. §1030].
+* ''[https://www.courtlistener.com/ca2/3RNZ/united-states-v-robert-tappan-morris/ United States v. Morris]'', 928 F.2d 504 (2d Cir. 1991). '''SAIL 1097-1103'''.
+* ''[http://www.kentlaw.edu/faculty/rstaudt/classes/oldclasses/internetlaw/casebook/us_v_riggs1.html United States v. Riggs]'', 739 F. Supp. 414 (N.D. Ill. 1990). '''SAIL 1103-1112'''.
+* ''[http://securitylaw.info/cfaa/175_F_Supp_2d_367.pdf United States v. Ivanov]'', 175 F. Supp. 2d 367 (D. Conn. 2001). '''SAIL 1112-1118'''.
+Optional Readings: [[Civil and Criminal Hacking (The Computer Fraud and Abuse Act)]]
+
+
+----
+
+===Apr. 11, Fri. 3:00pm-4:30pm: Online Anonymous Speech and the First Amendment (LAW 276.1 make-up session)===
+*Proposed LAW 276.1 make-up session in South Hall 202.
+* [http://www.eff.org/files/filenode/dom_v_myspace/Motion%20AC%20filed.pdf Brief of Amicus Curiae The Electronic Frontier Foundation in Dominick v. Myspace, Inc.], (Cir. Ct. of Cook County Ill. 2008).
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-04-26%20Order.pdf Doe v. 2themart.com Inc.]'', 140 F. Supp. 2d 1088 (W.D. Wash. 2001). '''SAIL 761-767'''.
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-07-11-Decision.pdf Dendrite International, Inc. v. Doe No. 3]'', 775 A.2d 756 (N.J. Super. A.D. 2001). '''SAIL 767-778'''.
+Optional Readings: [[Online Anonymous Speech and the First Amendment]]
+
+
+----
+
+===Apr. 15, Tue.: Civil and Criminal Hacking (The Computer Fraud and Abuse Act)=== 
+* '''A-K on call'''
+* Orin S. Kerr, ''[http://ssrn.com/abstract=399740 Cybercrime's Scope: Interpreting "Access" and "Authorization" in Computer Misuse Statutes]'', 78 N.Y.U. L. Rev. 1596 (2003).
+* ''[http://www.archive.org/download/gov.uscourts.cacd.415703/gov.uscourts.cacd.415703.162.0.pdf United States v. Drew]'', No. 08-00582 (C.D. Cal. Aug. 28, 2009). '''SAIL 1118-1135'''.
+* Jennifer Granick, ''[http://www.eff.org/deeplinks/2009/09/ninth-circuit-holds-disloyal-computer-use-not-crim Ninth Circuit Holds Disloyal Computer Use Is Not A Crime]'', EFF Deeplinks (Sep. 17, 2009).
+* ''[http://crt.li/x/4dof United States v. Nosal]'', No. 10-10038 (9th Cir. 2012) (''en banc'').
+Optional Readings: [[Civil and Criminal Hacking (The Computer Fraud and Abuse Act)]]
+
+Optional Video: [http://www.youtube.com/watch?feature=player_embedded&v=c8F93nzDqP0 Video of ''En Banc'' Oral Argument in ''United States v. Nosal'']
+
+
+----
+
+===Apr. 17, Thu.: Privacy, National Security, and Global Surveillance===
+* '''Paper Outlines Due'''
+* ''Paper Draft for Comments Due'' for undergraduates and Law School Writing Requirement
+* Answer [http://survey.sharealike.net/index.php?sid=77943 a survey question] for our next class.
+* '''L-Z on call'''
+* '''LAW 276.1 students please do online course evaluations'''
+* Andrea Peterson, [http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/31/heres-what-we-learned-about-the-nsas-spying-programs-in-2013/ Here’s what we learned about the NSA's spying programs in 2013], Washington Post (Dec. 31, 2013).
+* Electronic Frontier Foundation, [https://www.eff.org/nsa-spying/faq NSA Spying FAQ].
+* Laura K. Donohue & Erwin Chemerinsky, [http://epic.org/privacy/nsa/in-re-epic/Church-Committee-Amicus.pdf Amicus Curiae Brief of Former Members of the Church Committee and Law Professors in Support of Petitioners], ''In Re Electronic Privacy Information Center'', No. 13-58 (Petition for a Writ of Mandamus and Prohibition, or a Writ of Certiorari) (S. Ct. Aug. 6, 2013) (petition denied Nov. 18, 2013).
+Optional Readings: Electronic Privacy Information Center, [http://epic.org/privacy/nsa/in-re-epic/ In re EPIC - NSA Telephone Records Surveillance] (collection of resources related to the case)
+
+
+----
+
+===Apr. 18, Fri. 3:00pm-4:30pm: Online Anonymous Speech and the First Amendment (LAW 276.1 make-up session)===
+*Proposed LAW 276.1 make-up session in South Hall 202.
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2005-10-05-Decision%20Quashing%20Subpoena.pdf Doe v. Cahill]'', 884 A.2d 451 (Del. 2005). '''SAIL 778-791'''
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2007-11-27-Court%20of%20Appeals%20Opinion.pdf Mobilisa, Inc. v. Doe]'', 170 P.3d 712 (Ariz. Ct. App. 2007). (excerpt on '''SAIL 791''').
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2008-02-06-Krinsky_v._Doe_Opinion.pdf Krinsky v. Doe 6]'', 159 Cal. App. 4th 1154 (Cal. Ct. App. 2008). '''SAIL 791-805'''.
+Optional Readings: [[Online Anonymous Speech and the First Amendment]]
+
+
+----
+
+===Apr. 22, Tue.: Privacy, National Security, and Global Surveillance===
+* '''A-K on call'''
+* '''Do INFO 235 course evaluations'''
+* Jennifer Granick & Christopher Sprigman, ''[http://www.forbes.com/sites/jennifergranick/2014/01/24/told-ya-so-nsas-collection-of-metadata-is-screamingly-illegal/ Told Ya So: NSA's Collection Of Metadata Is Screamingly Illegal]'', Forbes (Jan. 24, 2014).
+* ''[http://scholar.google.com/scholar_case?case=533874086721635393&hl=en&as_sdt=6&as_vis=1&oi=scholarr Klayman v. Obama]'', No. 13-0851 (D.D.C. Dec. 16, 2013).
+* ''[https://www.aclu.org/files/assets/order_granting_governments_motion_to_dismiss_and_denying_aclu_motion_for_preliminary_injunction.pdf ACLU v. Clapper]'', No. 13-3994 (S.D.N.Y. Dec. 27, 2013).
+
+
+----
+
+===Apr. 24, Thu.: Online Anonymous Speech and the First Amendment (ONLY INFO 235 meets)===
+* '''(ONLY INFO 235 meets)'''
+* '''A-K on call'''
+* [http://www.eff.org/files/filenode/dom_v_myspace/Motion%20AC%20filed.pdf Brief of Amicus Curiae The Electronic Frontier Foundation in Dominick v. Myspace, Inc.], (Cir. Ct. of Cook County Ill. 2008).
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-04-26%20Order.pdf Doe v. 2themart.com Inc.]'', 140 F. Supp. 2d 1088 (W.D. Wash. 2001). '''SAIL 761-767'''.
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2001-07-11-Decision.pdf Dendrite International, Inc. v. Doe No. 3]'', 775 A.2d 756 (N.J. Super. A.D. 2001). '''SAIL 767-778'''.
+Optional Readings: [[Online Anonymous Speech and the First Amendment]]
+
+
+----
+
+===Apr. 25, Fri. 3:00pm-4:30pm: Virtual Property (LAW 276.1 make-up session)===
+*Proposed LAW 276.1 make-up session in South Hall 202.
+* '''L-Z on call'''
+* ''[http://pub.bna.com/lw/21200.htm eBay v. Bidder's Edge]'', 100 F. Supp. 2d 1058 (N.D. Cal. 2000). '''SAIL 1034-1041'''.
+* ''[http://news.findlaw.com/hdocs/docs/intel/intelhamidi63003opn.pdf Intel Corp. v. Hamidi]'', 30 Cal. 4th 1342 (2003). '''SAIL 1042-1055'''.
+Optional Readings: [[Virtual Property]]
+
+
+----
+
+===Apr. 29, Tue.: Online Anonymous Speech and the First Amendment (ONLY INFO 235 meets)===
+* '''(ONLY INFO 235 meets)'''
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2005-10-05-Decision%20Quashing%20Subpoena.pdf Doe v. Cahill]'', 884 A.2d 451 (Del. 2005). '''SAIL 778-791'''
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2007-11-27-Court%20of%20Appeals%20Opinion.pdf Mobilisa, Inc. v. Doe]'', 170 P.3d 712 (Ariz. Ct. App. 2007). (excerpt on '''SAIL 791''').
+* ''[http://www.citmedialaw.org/sites/citmedialaw.org/files/2008-02-06-Krinsky_v._Doe_Opinion.pdf Krinsky v. Doe 6]'', 159 Cal. App. 4th 1154 (Cal. Ct. App. 2008). '''SAIL 791-805'''.
+Optional Readings: [[Online Anonymous Speech and the First Amendment]]
+
+
+----
+
+===May 1, Thu. : Virtual Property (ONLY INFO 235 meets)===
+* '''(ONLY INFO 235 meets)'''
+* '''L-Z on call'''
+* ''[http://pub.bna.com/lw/21200.htm eBay v. Bidder's Edge]'', 100 F. Supp. 2d 1058 (N.D. Cal. 2000). '''SAIL 1034-1041'''.
+* ''[http://news.findlaw.com/hdocs/docs/intel/intelhamidi63003opn.pdf Intel Corp. v. Hamidi]'', 30 Cal. 4th 1342 (2003). '''SAIL 1042-1055'''.
+Optional Readings: [[Virtual Property]]
+
+
+----
+
+===May 6, Tue. : RRR Week (NO CLASS)===
+*'''NO CLASS'''
+*Brian will be available during regularly-scheduled class time to meet individually with students that would like to discuss their paper.
+
+
+----
+===May 8, Thu.: LAW 276.1 PAPERS DUE; RRR Week (NO CLASS)===
+*'''NO CLASS'''
+'''LAW 276.1 Papers due by 11:59:59 p.m.'''
+
+
+----
+
+===May 16, Fri.: INFO 235 PAPERS DUE===
+'''INFO 235 Papers due by 11:59:59 p.m.'''
+
